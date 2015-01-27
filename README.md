@@ -1,2 +1,2 @@
-# Modpack---Sinful-Skies
+# Sinful Skies
 Official Repo for the Sinful Skies modpack
