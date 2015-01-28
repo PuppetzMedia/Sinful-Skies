@@ -1,3 +1,3 @@
 ### v1.0 Beta
 ------------
-_Coming Soon_
+_Initial Beta Release_
