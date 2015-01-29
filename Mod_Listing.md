@@ -5,7 +5,7 @@ Mod Listing
 | -------- | ------- | ------- |
 | AdvHealthOptions | 1.5.1.11 | [Website](http://copy.mcft.net/) |
 | Another One Bites the Dust | 2.4.0 | [Website](http://www.minecraftforum.net/topic/2319703-) |
-| AppleCore | 1.0.2 | [Website](http://minecraft.curseforge.com/mc-mods/224472-) |
+| AppleCore | 1.1.0 | [Website](http://minecraft.curseforge.com/mc-mods/224472-) |
 | Applied Energistics 2 | rv2-beta-8 | [Website](http://ae-mod.info/) |
 | ArmorStatusHUD | 1.28 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282347-) |
 | Auto Packager |	1.5.3 | [Website](http://minecraft.curseforge.com/mc-mods/221457-) |
@@ -40,7 +40,7 @@ Mod Listing
 | IguanaTinkerTweaks | 2.1.2 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2176855-) |
 | IguanaTweaks | Beta-19 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295224-) |
 | Infernal Mobs | 1.5.9 | [Website](http://www.atomicstryker.net/infernalmobs.php) |
-| INPureCore | 1.0.0B7-19 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2196459-) |
+| INPureCore | 1.0.0B8-49 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2196459-) |
 | Inventory Tweaks | 1.59-dev-156 | [Website](https://github.com/Kobata/inventory-tweaks) |
 | IronChests | 6.0.62.742 | [Website](http://files.minecraftforge.net/IronChests2/) |
 | JABBA | 1.2.0a | [Website](http://profmobius.blogspot.fr/search/label/JABBA) |
@@ -49,7 +49,7 @@ Mod Listing
 | LunatriusCore | 1.1.2.21 | [Website](http://mc.lunatri.us/) |
 | Lycanites Mobs | 1.10.10.0 | [Website](http://lycanitesmobs.nephrite.co.uk) |
 | Mantle | 0.3.2 | [Website](https://github.com/SlimeKnights/Mantle) |
-| Meteors (Falling Meteors) | 2.13.1 | [Website](http://www.minecraftforum.net/topic/989113-) |
+| Meteors (Falling Meteors) | 2.14.1 | [Website](http://www.minecraftforum.net/topic/989113-) |
 | MineFactoryReloaded | 2.8.0RC6-41 | [Website](http://www.minecraftforum.net/topic/2016680-) |
 | MineTweaker | 3.0.9C | [Website](http://www.minecraftforum.net/topic/1886008-) |
 | MobiusCore | 1.2.3 | [Website](http://profmobius.blogspot.fr/) |
@@ -74,7 +74,7 @@ Mod Listing
 | Tinker's Construct | 1.8.2a | [Website](http://www.minecraftforum.net/topic/1659892-t) |
 | Twisted Tweaks | 0.0.4 | [Website](https://github.com/TSSN/Twisted-Tweaks) |
 | Thermal Expansion | 4.0.0B8-23 | [Website](http://teamcofh.com/) |
-| Thermal Foundation | 1.0.0RC1-29 | [Website](http://teamcofh.com/) |
+| Thermal Foundation | 1.0.0RC1-30 | [Website](http://teamcofh.com/) |
 | TiCTooltips | 1.2.3 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294501-) |
 | TMechworks | 0.2.9 | [Website](http://www.minecraftforum.net/topic/1659892-) |
 | ttCore | 0.1.0-60 | [Website](http://minecraft.curseforge.com/mc-mods/226082-) |
@@ -82,5 +82,5 @@ Mod Listing
 | Vein Miner | 0.21.2.43 | [Website](http://minecraft.curseforge.com/mc-mods/veinminer/) |
 | Waila | 1.5.8a | [Website](http://www.minecraftforum.net/topic/1846244-) |
 | Waila Harvestability | 1.1.1 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295067-) |
-| WAILA Plugins | 0.0.1-12 | [Website](http://minecraft.curseforge.com/mc-mods/226119-) |
+| WAILA Plugins | 0.0.1-13 | [Website](http://minecraft.curseforge.com/mc-mods/226119-) |
 | YUNoMakeGoodMap | 4.0.0.12 | [Website](https://github.com/LexManos/YUNoMakeGoodMap) |
