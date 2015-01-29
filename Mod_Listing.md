@@ -18,8 +18,8 @@ Mod Listing
 | Chisel | 2.3.5.31 | [Website](http://www.minecraftforum.net/topic/2592047-) |
 | CodeChickenCore | 1.0.4.29 | [Website](http://www.minecraftforum.net/topic/909223-) |
 | CodeChickenLib | 1.1.1.110 | [Website](http://www.minecraftforum.net/topic/909223-) |
-| CoFHCore | 3.0.0B9-103 | [Website](http://teamcofh.com/) |
-| CoFHLib | 1.0.0B9-68 | [Website](http://teamcofh.com/) |
+| CoFHCore | 3.0.0B9-104 | [Website](http://teamcofh.com/) |
+| CoFHLib | 1.0.0B9-69 | [Website](http://teamcofh.com/) |
 | CopyCore | 1.5.0.6 | [Website](http://copy.mcft.net/) |
 | Custom Main Menu | 1.1 | [Website](http://minecraft.curseforge.com/mc-mods/226406-) |
 | Damage Indicators | 3.2.3 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286538-) |
@@ -50,7 +50,7 @@ Mod Listing
 | Lycanites Mobs | 1.10.10.0 | [Website](http://lycanitesmobs.nephrite.co.uk) |
 | Mantle | 0.3.2 | [Website](https://github.com/SlimeKnights/Mantle) |
 | Meteors (Falling Meteors) | 2.14.1 | [Website](http://www.minecraftforum.net/topic/989113-) |
-| MineFactoryReloaded | 2.8.0RC6-41 | [Website](http://www.minecraftforum.net/topic/2016680-) |
+| MineFactoryReloaded | 2.8.0RC6-42 | [Website](http://www.minecraftforum.net/topic/2016680-) |
 | MineTweaker | 3.0.9C | [Website](http://www.minecraftforum.net/topic/1886008-) |
 | MobiusCore | 1.2.3 | [Website](http://profmobius.blogspot.fr/) |
 | ModTweaker | 0.6-0 | [Website](http://minecraft.curseforge.com/mc-mods/220954-) |
@@ -74,11 +74,11 @@ Mod Listing
 | Tinker's Construct | 1.8.2a | [Website](http://www.minecraftforum.net/topic/1659892-t) |
 | Twisted Tweaks | 0.0.4 | [Website](https://github.com/TSSN/Twisted-Tweaks) |
 | Thermal Expansion | 4.0.0B8-23 | [Website](http://teamcofh.com/) |
-| Thermal Foundation | 1.0.0RC1-30 | [Website](http://teamcofh.com/) |
+| Thermal Foundation | 1.0.0RC1-32 | [Website](http://teamcofh.com/) |
 | TiCTooltips | 1.2.3 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294501-) |
 | TMechworks | 0.2.9 | [Website](http://www.minecraftforum.net/topic/1659892-) |
 | ttCore | 0.1.0-60 | [Website](http://minecraft.curseforge.com/mc-mods/226082-) |
-| Twisted Tweaks | 0.0.6 | [Website](https://github.com/TSSN/Twisted-Tweaks) |
+| Twisted Tweaks | 0.0.8 | [Website](https://github.com/TSSN/Twisted-Tweaks) |
 | Vein Miner | 0.21.2.43 | [Website](http://minecraft.curseforge.com/mc-mods/veinminer/) |
 | Waila | 1.5.8a | [Website](http://www.minecraftforum.net/topic/1846244-) |
 | Waila Harvestability | 1.1.1 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295067-) |
