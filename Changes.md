@@ -22,7 +22,7 @@
   - AE2
     - Disabled the grindstone to stop people getting around without having to use the smeltery [Issue #5](https://github.com/TSSN/Sinful-Skies/issues/5)
   - EnviroMine
-    - Fixed exploits with jumping of the world to reset their stats.
+    - Fixed exploits with jumping of the world to reset player stats/debufs.
 3. Script Changes
   - Recipes
     - Removed Thermal Foundation armour recipes (These are not textured by default and not using our armour tiering system yet)
