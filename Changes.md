@@ -21,12 +21,14 @@
     - Tweaked power rate usage on a few machines.
   - AE2
     - Disabled the grindstone to stop people getting around without having to use the smeltery [Issue #5](https://github.com/TSSN/Sinful-Skies/issues/5)
+  - EnviroMine
+    - Fixed exploits with jumping of the world to reset their stats.
 3. Script Changes
   - Recipes
     - Removed Thermal Foundation armour recipes (These are not textured by default and not using our armour tiering system yet)
     - Changed Dark Steel armour recipe to reflect the armour tier system.
     - Changed SAG Mill to match Thermal Expansions. [Issue #4](https://github.com/TSSN/Sinful-Skies/issues/4)
-    - Ender IO Capactors are now *fun* to make!
+    - Ender IO Capacitors are now *fun* to make!
     - Misc changes to some recipes to prolong the game a tad more. #blameRyanTheAllmighty
   - Fixes
     - You are now able to craft 4 planks from a log when using a saw [Issue #2](https://github.com/TSSN/Sinful-Skies/issues/2)
