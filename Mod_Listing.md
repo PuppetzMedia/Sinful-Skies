@@ -19,14 +19,14 @@ Mod Listing
 | Chisel | 2.3.5.31 | [Website](http://www.minecraftforum.net/topic/2592047-) |
 | CodeChickenCore | 1.0.4.29 | [Website](http://www.minecraftforum.net/topic/909223-) |
 | CodeChickenLib | 1.1.1.110 | [Website](http://www.minecraftforum.net/topic/909223-) |
-| CoFHCore | 3.0.0B9-107 | [Website](http://teamcofh.com/) |
-| CoFHLib | 1.0.0B9-70 | [Website](http://teamcofh.com/) |
+| CoFHCore | 3.0.0B9-120 | [Website](http://teamcofh.com/) |
+| CoFHLib | 1.0.0B9-79 | [Website](http://teamcofh.com/) |
 | CopyCore | 1.5.0.6 | [Website](http://copy.mcft.net/) |
 | Custom Main Menu | 1.1 | [Website](http://minecraft.curseforge.com/mc-mods/226406-) |
 | Damage Indicators | 3.2.3 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286538-) |
-| Ender IO | 2.2.7.326 | [Website](http://enderio.com) |
+| Ender IO | 2.2.7.335 | [Website](http://enderio.com) |
 | Ender Storage | 1.4.5.27 | [Website](http://www.minecraftforum.net/topic/909223-) |
-| EnviroMine | 1.3.94 | [Website](https://github.com/EnviroMine/EnviroMine-1.7) |
+| EnviroMine | 1.3.98 | [Website](https://github.com/EnviroMine/EnviroMine-1.7) |
 | Ex Astris | 1.15 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2210492-) |
 | Ex Nihilo | 1.37 | [Website](http://www.minecraftforum.net/topic/1981778-) |
 | Extra Cells | 2.2.40b74 | [Website](https://github.com/M3gaFr3ak/ExtraCells2) |
@@ -74,7 +74,7 @@ Mod Listing
 | SpecialAI | 1.1.0 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-) |
 | Spice Of Life | 1.2.3 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091809-) |
 | Tinker's Construct | 1.8.2a | [Website](http://www.minecraftforum.net/topic/1659892-t) |
-| Twisted Tweaks | 0.0.4 | [Website](https://github.com/TSSN/Twisted-Tweaks) |
+| Twisted Tweaks | 0.1.0-4 | [Website](https://github.com/TSSN/Twisted-Tweaks) |
 | Thermal Expansion | 4.0.0B8-23 | [Website](http://teamcofh.com/) |
 | Thermal Foundation | 1.0.0RC1-27 | [Website](http://teamcofh.com/) |
 | TiCTooltips | 1.2.3 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294501-) |

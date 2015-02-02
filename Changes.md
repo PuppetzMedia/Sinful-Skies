@@ -1,3 +1,26 @@
+### v1.4 Beta
+------------
+
+1. Mod Changes
+  - Updates
+    - CoFHCore from 3.0.0B9-107 to 3.0.0B9-120
+    - CoFHLib from 1.0.0B9-70 to 1.0.0B9-79
+    - Ender IO from 2.2.7.326 to 2.2.7.335
+    - EnviroMine from 1.3.94 to 1.3.98
+    - Twisted Tweaks from 0.0.9 to 0.1.0-4
+  - Added
+    - Enchiridion 2 2.0b
+  - Removals
+    - Fluxed Crystals (We're going to wait for the new version to be released before fully configuring the mod)
+2. Config Changes
+  - Lootbags
+    - More confiuration changes to the drop chances and/or the drops from the bags themselves.
+3. Script Changes
+  - None
+4. Known Issues
+  - Not being able to repair tinker tools which have the repair material from something from Thermal Foundation, this
+    bug is known by the developers and we are awaiting a fix for it. (Stick to standard materials for now)
+
 ### v1.3 Beta
 ------------
 
