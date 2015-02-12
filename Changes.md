@@ -1,3 +1,65 @@
+### v1.5 Beta
+------------
+
+1. Mod Changes
+  - Updates
+    - BetterStorage from 0.11.3.123 to 0.11.3.124
+    - CoFHCore from 3.0.0B9-120 to 3.0.0B9-133
+    - CoFHLib from 1.0.0B9-79 to 1.0.0B9-85
+    - Ender IO from 2.2.7.335 to 2.2.7.344
+    - EnviroMine from 1.3.98 to 1.3.101
+    - fastcraft from 1.18 to 1.19
+    - InfernalMobs from 1.5.9 to 1.6.0
+    - Lycanites Mobs from 1.10.10.1 to 1.10.11.1
+    - MinecraftForge from 10.13.2.1291 to 10.13.2.1307
+    - MineFactoryReloaded from 2.8.0RC6-45 2.8.0RC6-48
+    - NEIIntegration from 1.0.5 to 1.0.6
+    - OpenBlocks from 1.3-snapshot-550 to 1.3-snapshot-560
+    - OpenBlocksLib from 0.6-snapshot-305 to 0.6-snapshot-308
+    - SpecialAI from 1.1.0 to 1.1.1
+    - TMechworks from 0.2.9 to 0.2.12.95
+    - ttCore from 0.1.0-61 to 0.1.0-66
+    - Twisted Tweaks from 0.1.0-4 to 0.1.1-5
+    - Waila from 1.5.8a to 1.5.9
+    - Waila Harvestability from 1.1.1 to 1.1.2
+  - Added
+    - RouletteOres 1.0.4
+    - Tree Growing Simulator 4.0.0.12
+      - Configs have been nurfed.
+    - Veinminer Mod Integration 0.4.2
+2. Config Changes
+  - Applied Energistics 2
+    - Removed being able to clone presses using Iron Blocks. (You have to use the tier system now)
+    - Added a way of crafing the basic inscriber presses. (Refer to your local NEI for help)
+  - Enchiridion
+    - Added the new Embrace the Rage beginners book (v1)
+  - EnviroMine
+    - Added more blocks / items to the custom configs.
+  - Lootbags
+    - Changed rates again >.<
+  - Twisted Tweaks
+    - It's now a 45% chance of the rain being acid.
+  - Veinminer
+    - You need to get the enchant on normal tools, or add the modifier to your Tinker tools to be able to use Veinminer.
+    - Added more blocks and fixed settings to allow the use of Veinminer on some more blocks.
+3. Script Changes
+  - Added
+    - Ex Nihilo/Astris broken/crushed/powdered pieces can now be smelted in tinkers smeltery.
+    - Recipe to craft the wooden sword to be used in crafting recipes.
+    - Ways to get the higher tier of inscriber presses. (Refer to your local NEI for help)
+    - Recipe to get a hold of the guide book for the pack.
+  - Recipes
+    - Changed lots more recipes.
+  - Fixes
+    - Fixed some balancing with some of the tech tree.
+    - Fixed not being able to get other HarvestCraft saplings. You can now sift Fertile Soil to be able to get the other saplings.
+4. Known Issues
+  - Not being able to repair tinker tools which have the repair material from something from Thermal Expansions, this
+    bug is known by the developers and we are awaiting a fix for it. (Stick to standard materials for now)
+5. Special Notes
+  - Lycanite configs were reset to default from one of the updates. While we worked on reverting the changes, we may have missed a few things. 
+    Please report any noticeable issues to our issue tracker.
+
 ### v1.4 Beta
 ------------
 
