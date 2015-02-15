@@ -1,3 +1,38 @@
+### v1.6 Beta
+------------
+
+*It is recommend to update to this version, which has fixes for RF production and transferring, along with tonnes of fixes in the custom configurations*
+
+1. Mod Changes
+  - Updates
+    - Carpenters Blocks from 3.3.4.2 to 3.3.5
+    - Chisel 2 from 2.3.5.31 to 2.3.6.33
+    - Ender IO from 2.2.7.344 to 2.2.7.349
+    - LootBags from 1.4.2 to 1.5.1
+    - TMechworks from 0.2.12.95 to 0.2.12.96
+    - Twisted Tweaks from 0.1.1-5 to 0.1.1-6
+    - VeinMiner from 0.21.2.43 to 0.23.0.50
+2. Config Changes
+  - Lycanites Mobs
+    - Fixed the loot configurations again...
+  - MFR
+    - Changed more power values.
+  - CoFH
+    - Nurfed power outputs from some fuel sources.
+  - Vein Miner
+    - Added more blocks to be vein-mined.
+    - Added Tinkers Hammer to be usable for Vein Mining the ExNihilo block ores.
+  - Other
+    - Fixed misc bugs with some conflicts and tweaked some random configs here and their.
+3. Script Changes
+  - Changes
+    - Lowered the rate of getting aluminum from sifting.
+  - Recipes
+    - Changed some more recipes around to spruce things up.
+4. Known Issues
+  - Not being able to repair tinker tools which have the repair material from something from Thermal Expansions, this
+    should be fixed in the next main release of Thermal Expansions.
+
 ### v1.5 Beta
 ------------
 

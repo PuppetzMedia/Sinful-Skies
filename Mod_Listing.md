@@ -14,9 +14,9 @@ Mod Listing
 | BiblioWoods (Natura) | 1.5 | [Website](http://www.bibliocraftmod.com) |
 | Big Reactors | 0.4.1.A2 | [Website](http://www.big-reactors.com/) |
 | bspkrsCore | 6.15 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281180-) |
-| Carpenter's Blocks | 3.3.4.2 | [Website](http://www.minecraftforum.net/topic/1790919-) |
+| Carpenter's Blocks | 3.3.5 | [Website](http://www.minecraftforum.net/topic/1790919-) |
 | Chicken Chunks | 1.3.4.1.5 | [Website](http://www.minecraftforum.net/topic/909223-) |
-| Chisel | 2.3.5.31 | [Website](http://www.minecraftforum.net/topic/2592047-) |
+| Chisel 2 | 2.3.6.33 | [Website](http://www.minecraftforum.net/topic/2592047-) |
 | CodeChickenCore | 1.0.4.29 | [Website](http://www.minecraftforum.net/topic/909223-) |
 | CodeChickenLib | 1.1.1.110 | [Website](http://www.minecraftforum.net/topic/909223-) |
 | CoFHCore | 3.0.0B9-133 | [Website](http://teamcofh.com/) |
@@ -24,7 +24,7 @@ Mod Listing
 | CopyCore | 1.5.0.6 | [Website](http://copy.mcft.net/) |
 | Custom Main Menu | 1.1 | [Website](http://minecraft.curseforge.com/mc-mods/226406-) |
 | Damage Indicators | 3.2.3 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286538-) |
-| Ender IO | 2.2.7.344 | [Website](http://enderio.com) |
+| Ender IO | 2.2.7.349 | [Website](http://enderio.com) |
 | Ender Storage | 1.4.5.27 | [Website](http://www.minecraftforum.net/topic/909223-) |
 | EnviroMine | 1.3.101 | [Website](https://github.com/EnviroMine/EnviroMine-1.7) |
 | Ex Astris | 1.15 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2210492-) |
@@ -45,7 +45,7 @@ Mod Listing
 | Inventory Tweaks | 1.59-dev-156 | [Website](https://github.com/Kobata/inventory-tweaks) |
 | IronChests | 6.0.62.742 | [Website](http://files.minecraftforge.net/IronChests2/) |
 | JABBA | 1.2.0a | [Website](http://profmobius.blogspot.fr/search/label/JABBA) |
-| Loot Bags | 1.4.2 | [Website](http://minecraft.curseforge.com/mc-mods/225946-) |
+| Loot Bags | 1.5.1 | [Website](http://minecraft.curseforge.com/mc-mods/225946-) |
 | Lucky Block | 5.1.0 | [Website](http://www.minecraftforum.net/topic/2031111-) |
 | LunatriusCore | 1.1.2.21 | [Website](http://mc.lunatri.us/) |
 | Lycanites Mobs | 1.10.11.1 | [Website](http://lycanitesmobs.nephrite.co.uk) |
@@ -79,10 +79,10 @@ Mod Listing
 | Thermal Expansion | 4.0.0B8-23 | [Website](http://teamcofh.com/) |
 | Thermal Foundation | 1.0.0RC1-27 | [Website](http://teamcofh.com/) |
 | TiCTooltips | 1.2.3 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294501-) |
-| TMechworks | 0.2.12.95 | [Website](http://www.minecraftforum.net/topic/1659892-) |
+| TMechworks | 0.2.12.96 | [Website](http://www.minecraftforum.net/topic/1659892-) |
 | ttCore | 0.1.0-66 | [Website](http://minecraft.curseforge.com/mc-mods/226082-) |
-| Twisted Tweaks | 0.1.1-5 | [Website](https://github.com/TSSN/Twisted-Tweaks) |
-| Vein Miner | 0.21.2.43 | [Website](http://minecraft.curseforge.com/mc-mods/veinminer/) |
+| Twisted Tweaks | 0.1.1-6 | [Website](https://github.com/TSSN/Twisted-Tweaks) |
+| Vein Miner | 0.23.0.50 | [Website](http://minecraft.curseforge.com/mc-mods/veinminer/) |
 | Waila | 1.5.9 | [Website](http://www.minecraftforum.net/topic/1846244-) |
 | Waila Harvestability | 1.1.2 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295067-) |
 | WAILA Plugins | 0.0.1-13 | [Website](http://minecraft.curseforge.com/mc-mods/226119-) |
