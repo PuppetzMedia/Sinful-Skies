@@ -9,7 +9,7 @@
     - JABBA from 1.2.0a to 1.2.1
 2. Config Changes
   - Forge Multipart
-    - Re-added being able to make Jack'O Lanterns FML blocks.
+    - Re-added being able to make Jack'O Lanterns FMP blocks.
   - Secret
     - Did somethings here and there.
 3. Script Changes
