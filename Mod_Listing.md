@@ -13,10 +13,10 @@ Mod Listing
 | BiblioCraft |	1.9.2 | [Website](http://www.bibliocraftmod.com) |
 | BiblioWoods (Natura) | 1.5 | [Website](http://www.bibliocraftmod.com) |
 | Big Reactors | 0.4.1.A2 | [Website](http://www.big-reactors.com/) |
-| bspkrsCore | 6.15 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281180-) |
+| bspkrsCore | 6.16 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281180-) |
 | Carpenter's Blocks | 3.3.5 | [Website](http://www.minecraftforum.net/topic/1790919-) |
 | Chicken Chunks | 1.3.4.1.5 | [Website](http://www.minecraftforum.net/topic/909223-) |
-| Chisel 2 | 2.3.6.33 | [Website](http://www.minecraftforum.net/topic/2592047-) |
+| Chisel 2 | 2.3.6.34 | [Website](http://www.minecraftforum.net/topic/2592047-) |
 | CodeChickenCore | 1.0.4.29 | [Website](http://www.minecraftforum.net/topic/909223-) |
 | CodeChickenLib | 1.1.1.110 | [Website](http://www.minecraftforum.net/topic/909223-) |
 | CoFHCore | 3.0.0B9-133 | [Website](http://teamcofh.com/) |
@@ -44,7 +44,7 @@ Mod Listing
 | INPureCore | 1.0.0B8-49 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2196459-) |
 | Inventory Tweaks | 1.59-dev-156 | [Website](https://github.com/Kobata/inventory-tweaks) |
 | IronChests | 6.0.62.742 | [Website](http://files.minecraftforge.net/IronChests2/) |
-| JABBA | 1.2.0a | [Website](http://profmobius.blogspot.fr/search/label/JABBA) |
+| JABBA | 1.2.1 | [Website](http://profmobius.blogspot.fr/search/label/JABBA) |
 | Loot Bags | 1.5.1 | [Website](http://minecraft.curseforge.com/mc-mods/225946-) |
 | Lucky Block | 5.1.0 | [Website](http://www.minecraftforum.net/topic/2031111-) |
 | LunatriusCore | 1.1.2.21 | [Website](http://mc.lunatri.us/) |

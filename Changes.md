@@ -1,3 +1,24 @@
+### v1.6c Beta
+------------
+
+1. Mod Changes
+  - Updates
+    - bspkrsCore from 6.15 to 6.16
+    - Chisel 2 from 2.3.6.33 to 2.3.6.34
+      - *Fixed: A serious bug allowing left-click chiseling to change blocks to incorrect types*
+    - JABBA from 1.2.0a to 1.2.1
+2. Config Changes
+  - Forge Multipart
+    - Re-added being able to make Jack'O Lanterns FML blocks.
+  - Secret
+    - Did somethings here and there.
+3. Script Changes
+  - Recipes
+    - Removed some things from the Ore Dictionary to force people to use the correct materials to craft things.
+4. Known Issues
+  - Not being able to repair tinker tools which have the repair material from something from Thermal Expansions, this
+    should be fixed in the next main release of Thermal Expansions.
+
 ### v1.6b Beta
 ------------
 
