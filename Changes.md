@@ -1,8 +1,6 @@
 ### v1.6b Beta
 ------------
 
-*It is recommend to update to this version, which has fixes for RF production and transferring, along with tonnes of fixes in the custom configurations*
-
 1. Mod Changes
   - Updates
     - MineFactoryReloaded from 2.8.0RC6-48 to 2.8.0RC6-49
