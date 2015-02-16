@@ -5,7 +5,7 @@
   - Updates
     - bspkrsCore from 6.15 to 6.16
     - Chisel 2 from 2.3.6.33 to 2.3.6.34
-      - *Fixed: A serious bug allowing left-click chiseling to change blocks to incorrect types*
+      - **Fixed: A serious bug allowing left-click chiseling to change blocks to incorrect types**
     - JABBA from 1.2.0a to 1.2.1
 2. Config Changes
   - Forge Multipart
