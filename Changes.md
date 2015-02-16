@@ -13,6 +13,7 @@
     - **Note: Backup your worlds/servers before running this version. We take no responsibility if this breaks worlds, as stated when you install the pack that worlds
       may not last so this could be one of those situations.**
 3. Script Changes
+  - Added a recipe to get Jack'O Lantern from using a Carpenters Torch.
 4. Known Issues
   - Not being able to repair tinker tools which have the repair material from something from Thermal Expansions, this
     should be fixed in the next main release of Thermal Expansions.
