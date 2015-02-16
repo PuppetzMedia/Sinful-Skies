@@ -51,7 +51,7 @@ Mod Listing
 | Lycanites Mobs | 1.10.11.1 | [Website](http://lycanitesmobs.nephrite.co.uk) |
 | Mantle | 0.3.2 | [Website](https://github.com/SlimeKnights/Mantle) |
 | Meteors (Falling Meteors) | 2.14.1 | [Website](http://www.minecraftforum.net/topic/989113-) |
-| MineFactoryReloaded | 2.8.0RC6-48 | [Website](http://www.minecraftforum.net/topic/2016680-) |
+| MineFactoryReloaded | 2.8.0RC6-49 | [Website](http://www.minecraftforum.net/topic/2016680-) |
 | MineTweaker | 3.0.9C | [Website](http://www.minecraftforum.net/topic/1886008-) |
 | MobiusCore | 1.2.3 | [Website](http://profmobius.blogspot.fr/) |
 | ModTweaker | 0.6-0 | [Website](http://minecraft.curseforge.com/mc-mods/220954-) |
@@ -77,7 +77,7 @@ Mod Listing
 | Tinker's Construct | 1.8.2a | [Website](http://www.minecraftforum.net/topic/1659892-t) |
 | Twisted Tweaks | 0.1.0-4 | [Website](https://github.com/TSSN/Twisted-Tweaks) |
 | Thermal Expansion | 4.0.0B8-23 | [Website](http://teamcofh.com/) |
-| Thermal Foundation | 1.0.0RC1-27 | [Website](http://teamcofh.com/) |
+| Thermal Foundation | 1.0.0RC1-13 | [Website](http://teamcofh.com/) |
 | TiCTooltips | 1.2.3 | [Website](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294501-) |
 | TMechworks | 0.2.12.96 | [Website](http://www.minecraftforum.net/topic/1659892-) |
 | ttCore | 0.1.0-66 | [Website](http://minecraft.curseforge.com/mc-mods/226082-) |

@@ -1,3 +1,22 @@
+### v1.6b Beta
+------------
+
+*It is recommend to update to this version, which has fixes for RF production and transferring, along with tonnes of fixes in the custom configurations*
+
+1. Mod Changes
+  - Updates
+    - MineFactoryReloaded from 2.8.0RC6-48 to 2.8.0RC6-49
+  - Downgrades
+    - Thermal Foundation from 1.0.0RC1-35 to 1.0.0RC1-13
+2. Config Changes
+  - Thermal Foundation
+    - **Note: Backup your worlds/servers before running this version. We take no responsibility if this breaks worlds, as stated when you install the pack that worlds
+      may not last so this could be one of those situations.**
+3. Script Changes
+4. Known Issues
+  - Not being able to repair tinker tools which have the repair material from something from Thermal Expansions, this
+    should be fixed in the next main release of Thermal Expansions.
+
 ### v1.6 Beta
 ------------
 
