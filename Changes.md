@@ -1,3 +1,17 @@
+### v1.6d Beta
+------------
+
+1. Mod Changes
+  - None
+2. Config Changes
+  - Applied Energistics 2
+    - Fixed recipe for making the logic processor base.
+3. Script Changes
+  - None
+4. Known Issues
+  - Not being able to repair tinker tools which have the repair material from something from Thermal Expansions, this
+    should be fixed in the next main release of Thermal Expansions.
+
 ### v1.6c Beta
 ------------
 
