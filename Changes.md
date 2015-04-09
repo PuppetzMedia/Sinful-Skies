@@ -1,3 +1,59 @@
+### v1.7a Beta
+------------
+
+1. Mod Changes
+  - Updates
+    - AOBD from 2.4.0 to 2.5.0
+    - Applied Energistics from rv2-beta-8 to rv2-beta-15
+    - BiblioCraft from 1.9.2 to 1.10.2
+    - ChickenChunks from 1.3.4.15 to 1.3.4.17
+    - CoFHCore from 3.0.0B9-133 to 3.0.0B9-217
+    - CoFHLib from 1.0.0B9-85 to 1.0.0B9-130
+    - EnviroMine from 1.3.101 to 1.3.108
+    - Ex-Astris from 1.15 to 1.16-21
+    - Ex-Nihilo from 1.37 to 1.38-18
+    - ExtraCells from 2.2.48b74 to 2.2.60b91
+    - ExtraUtilities from 1.2.1 to 1.2.2
+    - ForgeMultipart from 1.1.1.320 to 1.1.1.325
+    - IguanaTinkerTweaks from 2.1.2 to 2.1.3
+    - InGameInfoXML from 2.8.1.73 to 2.8.1.74
+    - INpureCore from 1.0.0B8-49 to 1.0.0B9-54
+    - JABBA from 1.2.1 to 1.2.1a
+    - LootBags from 1.5.1 to 1.5.3
+    - Lycanites Mobs from 1.10.11.1 to 1.10.11.4
+    - Meteors from 2.14.1 to 2.14.2
+    - MineFactoryReloaded from 2.8.0RC6-49 to 2.8.0RC8-97
+    - MobiusCore from 1.2.3 to 1.2.4
+    - ModTweaker from 0.6-0 to (ModTweaker 2) 0.7.4
+    - NEIAddons from 1.12.3.11 to 1.12.5.17
+    - NEIIntergration from 1.0.6 to 1.0.7
+    - NetherOres from 2.3.0RC4-9 to 2.3.0RC4-10
+    - NotEnoughItems from 1.0.4.83 to 1.0.4.90
+    - OpenBlocks from 1.3-snapshot-560 to 1.3-snapshot-571
+    - OpenMobsLib from 0.6-snapshot-308 to 0.6-snapshot-323
+    - Opis from 1.2.3 to 1.2.4a
+    - Pams HarvestCraft from 1.7.10f to 1.7.10g
+    - SimplyJetPacks from 1.3.2 to 1.4.1
+    - TConstruct from 1.8.2a to 1.8.3b
+    - Thermal Expansions from 4.0.0B8-23 to 4.0.0B8-147
+    - Thermal Foundation from 1.0.0RC1-13 to 1.0.0RC1-63
+    - TMechworks from 0.2.13.96 to 0.2.14.100
+    - ttCore from 0.1.0-66 to 0.1.0-67
+    - VeinMiner from 0.23.0.50 to 0.26.1
+    - Waila from 1.5.9 to 1.5.10
+    - WAILAPlugins from 0.0.1-13 to 0.0.1-14
+  - Additions
+    - Thermal Dynamics 1.0.0RC7-99
+2. Config Changes
+  - Lycanites Mobs
+    - Changed some spawning rates for some mobs.
+  - Other
+    - Random config changes here and their.
+3. Script Changes
+  - Fixed recipes with some mods and fixed a few conflicts.
+4. Known Issues
+  - N/A
+
 ### v1.6d Beta
 ------------
 

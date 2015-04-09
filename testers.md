@@ -9,6 +9,7 @@
   - eyamaz
   - Fyloket
   - GeekTechMedia
+  - k0jul
   - hixfd398
   - JmyJames
   - Junglistbeast
@@ -16,8 +17,12 @@
   - LiLMac21
   - McSqueaken
   - mindlesspuppetz
+  - OndraSter
   - reninsane
+  - rockerBOO
   - RyanTheAllmighty
   - siers1999
   - SkippTekk
+  - tyler_jacobson24
   - Wyld
+  - xhiyikfkox
