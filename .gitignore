@@ -16,7 +16,3 @@
 !minecraft/scripts/*
 !minecraft/icon.png
 !minecraft/modpack/*
-
-
-# ...even if they are in subdirectories
-!*/
