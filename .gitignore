@@ -1,18 +1,20 @@
-# Ignore everything
-*
-
-# But not these files...
-!.gitignore
-!Changes.md
-!icon.png
-!Mod_Listing.md
-!README.md
-
-# Or these folders
-!patches/*
-!minecraft/config/*
-!minecraft/mods/*
-!minecraft/resources/*
-!minecraft/scripts/*
-!minecraft/icon.png
-!minecraft/modpack/*
+.git/
+instance.cfg
+.packignore
+minecraft/asm/
+minecraft/backups/
+minecraft/coremods/
+minecraft/crash-reports/
+minecraft/fonts/
+minecraft/journeymap/
+minecraft/local/
+minecraft/logs/
+minecraft/resourcepacks/
+minecraft/saves/
+minecraft/screenshots/
+minecraft/server-resource-packs/
+minecraft/texturepacks/
+minecraft/*.log
+minecraft/options.txt
+minecraft/usercache.json
+minecraft/usernamecache.json
