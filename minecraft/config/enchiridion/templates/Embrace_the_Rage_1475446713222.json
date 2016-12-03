@@ -1,0 +1,22 @@
+{
+  "templatename": "Embrace the Rage",
+  "features": [
+    {
+      "xPos": 23,
+      "yPos": 120,
+      "width": 200.0,
+      "height": 80.0,
+      "feature": {
+        "class": "joshie.enchiridion.gui.book.features.FeatureText",
+        "properties": {
+          "text": "Welcome to Sinful Skies!",
+          "size": 1.0
+        }
+      },
+      "isLocked": false,
+      "isHidden": false,
+      "layerIndex": 0
+    }
+  ],
+  "uniquename": "Embrace_the_Rage_1475446713222"
+}

@@ -1,0 +1,22 @@
+{
+  "mods": [
+    {
+      "modid": "examplemod",
+      "modData": [
+        {
+          "objectName": "exampleBlock",
+          "meta": [
+            0,
+            2,
+            2596
+          ],
+          "newObjectName": "exampleBlockRenameTest",
+          "newModName": "ExampleModRenameTest",
+          "newDescription": [
+            "ExampleDescription"
+          ]
+        }
+      ]
+    }
+  ]
+}
