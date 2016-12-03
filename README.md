@@ -1,7 +1,7 @@
 # Sinful Skies
 Official Repo for the Sinful Skies modpack
   
-  (Grab it on Curse!)[https://minecraft.curseforge.com/projects/sinful-skies]
+  [Grab it on Curse!](https://minecraft.curseforge.com/projects/sinful-skies)
   
 PuppetzMedia is at it again! From the creators that brought you the Twisted Sin modpack, we are now tackling the void.
   
