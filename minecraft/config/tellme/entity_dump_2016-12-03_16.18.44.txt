@@ -1,0 +1,259 @@
+Mod Name                  Mod ID               Entity Identifier                         Entity class name          Entity ID
+-----------------------------------------------------------------------------------------------------------------------------
+ExtraUtils2               ExtraUtils2          ExtraUtils2.boomerang                     EntityBoomerang                    0
+Souls                     Souls                Souls.Soul                                EntitySoul                         0
+Tough As Nails            ToughAsNails         ToughAsNails.freeze                       EntityFreeze                       2
+Tough As Nails            ToughAsNails         ToughAsNails.iceball                      EntityIceball                      1
+Lycanites Arctic Mobs     arcticmobs           arcticmobs.arix                           EntityArix                         4
+Lycanites Arctic Mobs     arcticmobs           arcticmobs.blizzard                       EntityBlizzard                   104
+Lycanites Arctic Mobs     arcticmobs           arcticmobs.frostbolt                      EntityFrostbolt                  100
+Lycanites Arctic Mobs     arcticmobs           arcticmobs.frostweaver                    EntityFrostweaver                  1
+Lycanites Arctic Mobs     arcticmobs           arcticmobs.frostweb                       EntityFrostweb                   101
+Lycanites Arctic Mobs     arcticmobs           arcticmobs.icefireball                    EntityIcefireball                103
+Lycanites Arctic Mobs     arcticmobs           arcticmobs.reiver                         EntityReiver                       0
+Lycanites Arctic Mobs     arcticmobs           arcticmobs.serpix                         EntitySerpix                       5
+Lycanites Arctic Mobs     arcticmobs           arcticmobs.tundra                         EntityTundra                     102
+Lycanites Arctic Mobs     arcticmobs           arcticmobs.wendigo                        EntityWendigo                      3
+Lycanites Arctic Mobs     arcticmobs           arcticmobs.yeti                           EntityYeti                         2
+Better Agriculture        betteragriculture    betteragriculture.EntityMobChicken1       EntityMobChicken1                 32
+Better Agriculture        betteragriculture    betteragriculture.EntityMobChicken10      EntityMobChicken10                41
+Better Agriculture        betteragriculture    betteragriculture.EntityMobChicken11      EntityMobChicken11                42
+Better Agriculture        betteragriculture    betteragriculture.EntityMobChicken2       EntityMobChicken2                 33
+Better Agriculture        betteragriculture    betteragriculture.EntityMobChicken3       EntityMobChicken3                 34
+Better Agriculture        betteragriculture    betteragriculture.EntityMobChicken4       EntityMobChicken4                 35
+Better Agriculture        betteragriculture    betteragriculture.EntityMobChicken5       EntityMobChicken5                 36
+Better Agriculture        betteragriculture    betteragriculture.EntityMobChicken6       EntityMobChicken6                 37
+Better Agriculture        betteragriculture    betteragriculture.EntityMobChicken7       EntityMobChicken7                 38
+Better Agriculture        betteragriculture    betteragriculture.EntityMobChicken8       EntityMobChicken8                 39
+Better Agriculture        betteragriculture    betteragriculture.EntityMobChicken9       EntityMobChicken9                 40
+Better Agriculture        betteragriculture    betteragriculture.EntityMobCow1           EntityMobCow1                      0
+Better Agriculture        betteragriculture    betteragriculture.EntityMobCow10          EntityMobCow10                     9
+Better Agriculture        betteragriculture    betteragriculture.EntityMobCow2           EntityMobCow2                      1
+Better Agriculture        betteragriculture    betteragriculture.EntityMobCow3           EntityMobCow3                      2
+Better Agriculture        betteragriculture    betteragriculture.EntityMobCow4           EntityMobCow4                      3
+Better Agriculture        betteragriculture    betteragriculture.EntityMobCow5           EntityMobCow5                      4
+Better Agriculture        betteragriculture    betteragriculture.EntityMobCow6           EntityMobCow6                      5
+Better Agriculture        betteragriculture    betteragriculture.EntityMobCow7           EntityMobCow7                      6
+Better Agriculture        betteragriculture    betteragriculture.EntityMobCow8           EntityMobCow8                      7
+Better Agriculture        betteragriculture    betteragriculture.EntityMobCow9           EntityMobCow9                      8
+Better Agriculture        betteragriculture    betteragriculture.EntityMobNpcFemale1     EntityMobNpcFemale1               10
+Better Agriculture        betteragriculture    betteragriculture.EntityMobNpcMale        EntityMobNpcMale                  11
+Better Agriculture        betteragriculture    betteragriculture.EntityMobPig1           EntityMobPig1                     22
+Better Agriculture        betteragriculture    betteragriculture.EntityMobPig10          EntityMobPig10                    31
+Better Agriculture        betteragriculture    betteragriculture.EntityMobPig2           EntityMobPig2                     23
+Better Agriculture        betteragriculture    betteragriculture.EntityMobPig3           EntityMobPig3                     24
+Better Agriculture        betteragriculture    betteragriculture.EntityMobPig4           EntityMobPig4                     25
+Better Agriculture        betteragriculture    betteragriculture.EntityMobPig5           EntityMobPig5                     26
+Better Agriculture        betteragriculture    betteragriculture.EntityMobPig6           EntityMobPig6                     27
+Better Agriculture        betteragriculture    betteragriculture.EntityMobPig7           EntityMobPig7                     28
+Better Agriculture        betteragriculture    betteragriculture.EntityMobPig8           EntityMobPig8                     29
+Better Agriculture        betteragriculture    betteragriculture.EntityMobPig9           EntityMobPig9                     30
+Better Agriculture        betteragriculture    betteragriculture.EntityMobSheep1         EntityMobSheep1                   12
+Better Agriculture        betteragriculture    betteragriculture.EntityMobSheep10        EntityMobSheep10                  21
+Better Agriculture        betteragriculture    betteragriculture.EntityMobSheep2         EntityMobSheep2                   13
+Better Agriculture        betteragriculture    betteragriculture.EntityMobSheep3         EntityMobSheep3                   14
+Better Agriculture        betteragriculture    betteragriculture.EntityMobSheep4         EntityMobSheep4                   15
+Better Agriculture        betteragriculture    betteragriculture.EntityMobSheep5         EntityMobSheep5                   16
+Better Agriculture        betteragriculture    betteragriculture.EntityMobSheep6         EntityMobSheep6                   17
+Better Agriculture        betteragriculture    betteragriculture.EntityMobSheep7         EntityMobSheep7                   18
+Better Agriculture        betteragriculture    betteragriculture.EntityMobSheep8         EntityMobSheep8                   19
+Better Agriculture        betteragriculture    betteragriculture.EntityMobSheep9         EntityMobSheep9                   20
+Lycanites Demon Mobs      demonmobs            demonmobs.asmodeus                        EntityAsmodeus                     8
+Lycanites Demon Mobs      demonmobs            demonmobs.astaroth                        EntityAstaroth                     4
+Lycanites Demon Mobs      demonmobs            demonmobs.behemoth                        EntityBehemoth                     1
+Lycanites Demon Mobs      demonmobs            demonmobs.belph                           EntityBelph                        0
+Lycanites Demon Mobs      demonmobs            demonmobs.cacodemon                       EntityCacodemon                    6
+Lycanites Demon Mobs      demonmobs            demonmobs.demonicblast                    EntityDemonicBlast               104
+Lycanites Demon Mobs      demonmobs            demonmobs.demonicspark                    EntityDemonicSpark               103
+Lycanites Demon Mobs      demonmobs            demonmobs.devilgatling                    EntityDevilGatling               109
+Lycanites Demon Mobs      demonmobs            demonmobs.devilstar                       EntityDevilstar                  102
+Lycanites Demon Mobs      demonmobs            demonmobs.doomfireball                    EntityDoomfireball               101
+Lycanites Demon Mobs      demonmobs            demonmobs.hellfireball                    EntityHellfireball               100
+Lycanites Demon Mobs      demonmobs            demonmobs.hellfirebarrier                 EntityHellfireBarrier            108
+Lycanites Demon Mobs      demonmobs            demonmobs.hellfireorb                     EntityHellfireOrb                106
+Lycanites Demon Mobs      demonmobs            demonmobs.hellfirewall                    EntityHellfireWall               105
+Lycanites Demon Mobs      demonmobs            demonmobs.hellfirewave                    EntityHellfireWave               107
+Lycanites Demon Mobs      demonmobs            demonmobs.helllaser                       EntityHellLaser                  111
+Lycanites Demon Mobs      demonmobs            demonmobs.helllaserend                    EntityHellLaserEnd               112
+Lycanites Demon Mobs      demonmobs            demonmobs.hellshield                      EntityHellShield                 110
+Lycanites Demon Mobs      demonmobs            demonmobs.nethersoul                      EntityNetherSoul                   5
+Lycanites Demon Mobs      demonmobs            demonmobs.pinky                           EntityPinky                        2
+Lycanites Demon Mobs      demonmobs            demonmobs.rahovart                        EntityRahovart                     7
+Lycanites Demon Mobs      demonmobs            demonmobs.trite                           EntityTrite                        3
+Lycanites Desert Mobs     desertmobs           desertmobs.clink                          EntityClink                        2
+Lycanites Desert Mobs     desertmobs           desertmobs.crusk                          EntityCrusk                        1
+Lycanites Desert Mobs     desertmobs           desertmobs.cryptzombie                    EntityCryptZombie                  0
+Lycanites Desert Mobs     desertmobs           desertmobs.erepede                        EntityErepede                      5
+Lycanites Desert Mobs     desertmobs           desertmobs.gorgomite                      EntityGorgomite                    6
+Lycanites Desert Mobs     desertmobs           desertmobs.joust                          EntityJoust                        3
+Lycanites Desert Mobs     desertmobs           desertmobs.joustalpha                     EntityJoustAlpha                   4
+Lycanites Desert Mobs     desertmobs           desertmobs.manticore                      EntityManticore                    7
+Lycanites Desert Mobs     desertmobs           desertmobs.mudshot                        EntityMudshot                    101
+Lycanites Desert Mobs     desertmobs           desertmobs.throwingscythe                 EntityThrowingScythe             100
+Ex Nihilo Omnia           exnihiloomnia        exnihiloomnia.stone                       EntityStone                        0
+Lycanites Forest Mobs     forestmobs           forestmobs.arisaur                        EntityArisaur                      3
+Lycanites Forest Mobs     forestmobs           forestmobs.ent                            EntityEnt                          0
+Lycanites Forest Mobs     forestmobs           forestmobs.lifedrain                      EntityLifeDrain                  100
+Lycanites Forest Mobs     forestmobs           forestmobs.lifedrainend                   EntityLifeDrainEnd               101
+Lycanites Forest Mobs     forestmobs           forestmobs.shambler                       EntityShambler                     2
+Lycanites Forest Mobs     forestmobs           forestmobs.spriggan                       EntitySpriggan                     4
+Lycanites Forest Mobs     forestmobs           forestmobs.trent                          EntityTrent                        1
+Lycanites Forest Mobs     forestmobs           forestmobs.warg                           EntityWarg                         5
+Forestry                  forestry             forestry.butterflyGE                      EntityButterfly                    0
+Forestry                  forestry             forestry.cart.apiary                      EntityMinecartApiary               2
+Forestry                  forestry             forestry.cart.beehouse                    EntityMinecartBeehouse             1
+Lycanites Freshwater Mobs freshwatermobs       freshwatermobs.aquapulse                  EntityAquaPulse                  100
+Lycanites Freshwater Mobs freshwatermobs       freshwatermobs.jengu                      EntityJengu                        0
+Lycanites Freshwater Mobs freshwatermobs       freshwatermobs.silex                      EntitySilex                        3
+Lycanites Freshwater Mobs freshwatermobs       freshwatermobs.strider                    EntityStrider                      2
+Lycanites Freshwater Mobs freshwatermobs       freshwatermobs.zephyr                     EntityZephyr                       1
+Hardcore Wither           hardcorewither       hardcorewither.BlazeMinion                EntityBlazeMinion                  0
+Hardcore Wither           hardcorewither       hardcorewither.GhastMinion                EntityGhastMinion                  1
+Hardcore Wither           hardcorewither       hardcorewither.SkeletonMinion             EntitySkeletonMinion               2
+Immersive Engineering     immersiveengineering immersiveengineering.chemthrowerShot      EntityChemthrowerShot              4
+Immersive Engineering     immersiveengineering immersiveengineering.explosive            EntityIEExplosive                  7
+Immersive Engineering     immersiveengineering immersiveengineering.fluorescentTube      EntityFluorescentTube              8
+Immersive Engineering     immersiveengineering immersiveengineering.railgunShot          EntityRailgunShot                  5
+Immersive Engineering     immersiveengineering immersiveengineering.revolverShot         EntityRevolvershot                 0
+Immersive Engineering     immersiveengineering immersiveengineering.revolverShotFlare    EntityRevolvershotFlare            6
+Immersive Engineering     immersiveengineering immersiveengineering.revolverShotHoming   EntityRevolvershotHoming           2
+Immersive Engineering     immersiveengineering immersiveengineering.revolverShotWolfpack EntityWolfpackShot                 3
+Immersive Engineering     immersiveengineering immersiveengineering.skylineHook          EntitySkylineHook                  1
+Lycanites Inferno Mobs    infernomobs          infernomobs.afrit                         EntityAfrit                        3
+Lycanites Inferno Mobs    infernomobs          infernomobs.cephignis                     EntityCephignis                    2
+Lycanites Inferno Mobs    infernomobs          infernomobs.cinder                        EntityCinder                       0
+Lycanites Inferno Mobs    infernomobs          infernomobs.ember                         EntityEmber                      100
+Lycanites Inferno Mobs    infernomobs          infernomobs.khalk                         EntityKhalk                        4
+Lycanites Inferno Mobs    infernomobs          infernomobs.lobber                        EntityLobber                       1
+Lycanites Inferno Mobs    infernomobs          infernomobs.magma                         EntityMagma                      101
+Lycanites Inferno Mobs    infernomobs          infernomobs.salamander                    EntitySalamander                   5
+Lycanites Inferno Mobs    infernomobs          infernomobs.scorchfireball                EntityScorchfireball             102
+Lycanites Jungle Mobs     junglemobs           junglemobs.conba                          EntityConba                        5
+Lycanites Jungle Mobs     junglemobs           junglemobs.concapede                      EntityConcapedeHead                2
+Lycanites Jungle Mobs     junglemobs           junglemobs.concapedesegment               EntityConcapedeSegment             3
+Lycanites Jungle Mobs     junglemobs           junglemobs.geken                          EntityGeken                        0
+Lycanites Jungle Mobs     junglemobs           junglemobs.poop                           EntityPoop                       100
+Lycanites Jungle Mobs     junglemobs           junglemobs.tarantula                      EntityTarantula                    4
+Lycanites Jungle Mobs     junglemobs           junglemobs.uvaraptor                      EntityUvaraptor                    1
+Lycanites Jungle Mobs     junglemobs           junglemobs.vespid                         EntityVespid                       6
+Lycanites Jungle Mobs     junglemobs           junglemobs.vespidqueen                    EntityVespidQueen                  7
+Lycanites Mobs            lycanitesmobs        lycanitesmobs.fear                        EntityFear                         1
+Lycanites Mobs            lycanitesmobs        lycanitesmobs.hitarea                     EntityHitArea                      2
+Lycanites Mobs            lycanitesmobs        lycanitesmobs.summoningportal             EntityPortal                       0
+Minecraft                 minecraft            AreaEffectCloud                           EntityAreaEffectCloud              3
+Minecraft                 minecraft            ArmorStand                                EntityArmorStand                  30
+Minecraft                 minecraft            Arrow                                     EntityTippedArrow                 10
+Minecraft                 minecraft            Bat                                       EntityBat                         65
+Minecraft                 minecraft            Blaze                                     EntityBlaze                       61
+Minecraft                 minecraft            Boat                                      EntityBoat                        41
+Minecraft                 minecraft            CaveSpider                                EntityCaveSpider                  59
+Minecraft                 minecraft            Chicken                                   EntityChicken                     93
+Minecraft                 minecraft            Cow                                       EntityCow                         92
+Minecraft                 minecraft            Creeper                                   EntityCreeper                     50
+Minecraft                 minecraft            DragonFireball                            EntityDragonFireball              26
+Minecraft                 minecraft            EnderCrystal                              EntityEnderCrystal               200
+Minecraft                 minecraft            EnderDragon                               EntityDragon                      63
+Minecraft                 minecraft            Enderman                                  EntityEnderman                    58
+Minecraft                 minecraft            Endermite                                 EntityEndermite                   67
+Minecraft                 minecraft            EntityHorse                               EntityHorse                      100
+Minecraft                 minecraft            EyeOfEnderSignal                          EntityEnderEye                    15
+Minecraft                 minecraft            FallingSand                               EntityFallingBlock                21
+Minecraft                 minecraft            Fireball                                  EntityLargeFireball               12
+Minecraft                 minecraft            FireworksRocketEntity                     EntityFireworkRocket              22
+Minecraft                 minecraft            Ghast                                     EntityGhast                       56
+Minecraft                 minecraft            Giant                                     EntityGiantZombie                 53
+Minecraft                 minecraft            Guardian                                  EntityGuardian                    68
+Minecraft                 minecraft            Item                                      EntityItem                         1
+Minecraft                 minecraft            ItemFrame                                 EntityItemFrame                   18
+Minecraft                 minecraft            LavaSlime                                 EntityMagmaCube                   62
+Minecraft                 minecraft            LeashKnot                                 EntityLeashKnot                    8
+Minecraft                 minecraft            MinecartChest                             EntityMinecartChest               43
+Minecraft                 minecraft            MinecartCommandBlock                      EntityMinecartCommandBlock        40
+Minecraft                 minecraft            MinecartFurnace                           EntityMinecartFurnace             44
+Minecraft                 minecraft            MinecartHopper                            EntityMinecartHopper              46
+Minecraft                 minecraft            MinecartRideable                          EntityMinecartEmpty               42
+Minecraft                 minecraft            MinecartSpawner                           EntityMinecartMobSpawner          47
+Minecraft                 minecraft            MinecartTNT                               EntityMinecartTNT                 45
+Minecraft                 minecraft            Mob                                       EntityLiving                      48
+Minecraft                 minecraft            Monster                                   EntityMob                         49
+Minecraft                 minecraft            MushroomCow                               EntityMooshroom                   96
+Minecraft                 minecraft            Ozelot                                    EntityOcelot                      98
+Minecraft                 minecraft            Painting                                  EntityPainting                     9
+Minecraft                 minecraft            Pig                                       EntityPig                         90
+Minecraft                 minecraft            PigZombie                                 EntityPigZombie                   57
+Minecraft                 minecraft            PolarBear                                 EntityPolarBear                  102
+Minecraft                 minecraft            PrimedTnt                                 EntityTNTPrimed                   20
+Minecraft                 minecraft            Rabbit                                    EntityRabbit                     101
+Minecraft                 minecraft            Sheep                                     EntitySheep                       91
+Minecraft                 minecraft            Shulker                                   EntityShulker                     69
+Minecraft                 minecraft            ShulkerBullet                             EntityShulkerBullet               25
+Minecraft                 minecraft            Silverfish                                EntitySilverfish                  60
+Minecraft                 minecraft            Skeleton                                  EntitySkeleton                    51
+Minecraft                 minecraft            Slime                                     EntitySlime                       55
+Minecraft                 minecraft            SmallFireball                             EntitySmallFireball               13
+Minecraft                 minecraft            SnowMan                                   EntitySnowman                     97
+Minecraft                 minecraft            Snowball                                  EntitySnowball                    11
+Minecraft                 minecraft            SpectralArrow                             EntitySpectralArrow               24
+Minecraft                 minecraft            Spider                                    EntitySpider                      52
+Minecraft                 minecraft            Squid                                     EntitySquid                       94
+Minecraft                 minecraft            ThrownEgg                                 EntityEgg                          7
+Minecraft                 minecraft            ThrownEnderpearl                          EntityEnderPearl                  14
+Minecraft                 minecraft            ThrownExpBottle                           EntityExpBottle                   17
+Minecraft                 minecraft            ThrownPotion                              EntityPotion                      16
+Minecraft                 minecraft            Villager                                  EntityVillager                   120
+Minecraft                 minecraft            VillagerGolem                             EntityIronGolem                   99
+Minecraft                 minecraft            Witch                                     EntityWitch                       66
+Minecraft                 minecraft            WitherBoss                                EntityWither                      64
+Minecraft                 minecraft            WitherSkull                               EntityWitherSkull                 19
+Minecraft                 minecraft            Wolf                                      EntityWolf                        95
+Minecraft                 minecraft            XPOrb                                     EntityXPOrb                        2
+Minecraft                 minecraft            Zombie                                    EntityZombie                      54
+Lycanites Mountain Mobs   mountainmobs         mountainmobs.arcanelaser                  EntityArcaneLaser                102
+Lycanites Mountain Mobs   mountainmobs         mountainmobs.arcanelaserend               EntityArcaneLaserEnd             103
+Lycanites Mountain Mobs   mountainmobs         mountainmobs.arcanelaserstorm             EntityArcaneLaserStorm           101
+Lycanites Mountain Mobs   mountainmobs         mountainmobs.barghest                     EntityBarghest                     5
+Lycanites Mountain Mobs   mountainmobs         mountainmobs.beholder                     EntityBeholder                     4
+Lycanites Mountain Mobs   mountainmobs         mountainmobs.boulderblast                 EntityBoulderBlast               100
+Lycanites Mountain Mobs   mountainmobs         mountainmobs.geonach                      EntityGeonach                      3
+Lycanites Mountain Mobs   mountainmobs         mountainmobs.jabberwock                   EntityJabberwock                   0
+Lycanites Mountain Mobs   mountainmobs         mountainmobs.troll                        EntityTroll                        1
+Lycanites Mountain Mobs   mountainmobs         mountainmobs.yale                         EntityYale                         2
+Natura                    natura               natura.imp                                EntityImp                          2
+Natura                    natura               natura.nitrocreeper                       EntityNitroCreeper                 3
+Lycanites Plains Mobs     plainsmobs           plainsmobs.kobold                         EntityKobold                       0
+Lycanites Plains Mobs     plainsmobs           plainsmobs.maka                           EntityMaka                         2
+Lycanites Plains Mobs     plainsmobs           plainsmobs.makaalpha                      EntityMakaAlpha                    3
+Lycanites Plains Mobs     plainsmobs           plainsmobs.roc                            EntityRoc                          5
+Lycanites Plains Mobs     plainsmobs           plainsmobs.ventoraptor                    EntityVentoraptor                  1
+Lycanites Plains Mobs     plainsmobs           plainsmobs.zoataur                        EntityZoataur                      4
+Decocraft                 props                props.FakeChairEntity                     EntityChairMount                   0
+Lycanites Saltwater Mobs  saltwatermobs        saltwatermobs.abtu                        EntityAbtu                         3
+Lycanites Saltwater Mobs  saltwatermobs        saltwatermobs.ika                         EntityIka                          2
+Lycanites Saltwater Mobs  saltwatermobs        saltwatermobs.lacedon                     EntityLacedon                      0
+Lycanites Saltwater Mobs  saltwatermobs        saltwatermobs.raiko                       EntityRaiko                        4
+Lycanites Saltwater Mobs  saltwatermobs        saltwatermobs.skylus                      EntitySkylus                       1
+Lycanites Shadow Mobs     shadowmobs           shadowmobs.bloodleech                     EntityBloodleech                 101
+Lycanites Shadow Mobs     shadowmobs           shadowmobs.chupacabra                     EntityChupacabra                   4
+Lycanites Shadow Mobs     shadowmobs           shadowmobs.darkling                       EntityDarkling                     6
+Lycanites Shadow Mobs     shadowmobs           shadowmobs.epion                          EntityEpion                        2
+Lycanites Shadow Mobs     shadowmobs           shadowmobs.geist                          EntityGeist                        3
+Lycanites Shadow Mobs     shadowmobs           shadowmobs.grue                           EntityGrue                         0
+Lycanites Shadow Mobs     shadowmobs           shadowmobs.phantom                        EntityPhantom                      1
+Lycanites Shadow Mobs     shadowmobs           shadowmobs.shade                          EntityShade                        5
+Lycanites Shadow Mobs     shadowmobs           shadowmobs.spectralbolt                   EntitySpectralbolt               100
+Lycanites Swamp Mobs      swampmobs            swampmobs.aspid                           EntityAspid                        5
+Lycanites Swamp Mobs      swampmobs            swampmobs.dweller                         EntityDweller                      1
+Lycanites Swamp Mobs      swampmobs            swampmobs.ettin                           EntityEttin                        2
+Lycanites Swamp Mobs      swampmobs            swampmobs.eyewig                          EntityEyewig                       4
+Lycanites Swamp Mobs      swampmobs            swampmobs.ghoulzombie                     EntityGhoulZombie                  0
+Lycanites Swamp Mobs      swampmobs            swampmobs.lurker                          EntityLurker                       3
+Lycanites Swamp Mobs      swampmobs            swampmobs.poisonray                       EntityPoisonRay                  100
+Lycanites Swamp Mobs      swampmobs            swampmobs.poisonrayend                    EntityPoisonRayEnd               101
+Lycanites Swamp Mobs      swampmobs            swampmobs.remobra                         EntityRemobra                      6
+Lycanites Swamp Mobs      swampmobs            swampmobs.venomshot                       EntityVenomShot                  102
+Tinkers' Construct        tconstruct           tconstruct.Fancy Item Frame               EntityFancyItemFrame               2
+Tinkers' Construct        tconstruct           tconstruct.Indestructible Item            IndestructibleEntityItem           0
+Tinkers' Construct        tconstruct           tconstruct.Throwball                      EntityThrowball                    3
+Tinkers' Construct        tconstruct           tconstruct.blueslime                      EntityBlueSlime                    1
+Tinkers' Construct        tconstruct           tconstruct.shuriken                       EntityShuriken                    12
+Zombie Awareness          zombieawareness      zombieawareness.EntityScent               EntityScent                        0

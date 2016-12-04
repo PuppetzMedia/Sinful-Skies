@@ -51,6 +51,8 @@ recipes.addShaped(<minecraft:flint> * 1, [[<minecraft:gravel>, <minecraft:gravel
 recipes.addShaped(<minecraft:flint> * 1, [[<minecraft:gravel>, null], [<minecraft:gravel>, <minecraft:gravel>]]);
 recipes.addShaped(<minecraft:flint> * 1, [[null, <minecraft:gravel>], [<minecraft:gravel>, <minecraft:gravel>]]);
 recipes.addShaped(<minecraft:flint_and_steel> * 1, [[<ore:ingotSteel>, <minecraft:flint>]]);
+recipes.remove(<minecraft:shears>);
+recipes.addShaped(<minecraft:shears>, [[<tconstruct:knife_blade>.withTag({Material: "iron"}), null, <tconstruct:knife_blade>.withTag({Material: "iron"})],[null, <tconstruct:binding>.withTag({Material: "wood"}), null],[<tconstruct:tool_rod>.withTag({Material: "wood"}), null, <tconstruct:tool_rod>.withTag({Material: "wood"})]]);
 
 // Tough as Nails
 //removals
