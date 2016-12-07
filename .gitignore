@@ -18,3 +18,4 @@ minecraft/*.log
 minecraft/options.txt
 minecraft/usercache.json
 minecraft/usernamecache.json
+*.disabled
