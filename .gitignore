@@ -1,0 +1,50 @@
+# Un-Needed Mod Bloat
+.minecraft/config/AppliedEnergistics2/items.csv
+.minecraft/config/AppliedEnergistics2/aerecipes/*
+
+# Client Only Files
+.minecraft/config/InvTweaks.cfg
+.minecraft/config/MouseTweaks.cfg
+.minecraft/config/jei/bookmarks.ini
+.minecraft/config/jei/worldSettings.cfg
+.minecraft/config/jei/lookupHistory.zip
+.minecraft/config/buildcraft/detailed.properties
+.minecraft/.ReAuth.cfg
+.minecraft/crafttweaker.log
+.minecraft/usercache.json
+.minecraft/usernamecache.json
+.minecraft/knownkeys.txt
+.minecraft/options.txt
+.minecraft/patchouli_data.json
+
+# Other
+.minecraft/config/worldutils/*
+.minecraft/config/sampler.ini
+.minecraft/logs
+.minecraft/.mixin.out
+.minecraft/backups
+.minecraft/coremods
+.minecraft/crash-reports
+.minecraft/journeymap
+.minecraft/local
+.minecraft/saves
+.minecraft/screenshots
+.minecraft/server-resource-packs
+.minecraft/texturepacks
+.minecraft/mods
+.minecraft/resourcepacks
+
+# IDE
+.idea/
+
+# Stuff
+.DS_Store
+*.dat
+*.disabled
+
+# MultiMC
+.packignore
+icon.png
+instance.cfg
+mmc-pack.json
+Sinful Skies-3.0c.zip

@@ -1,0 +1,389 @@
+{
+  "dependencies": "netherfoundation",
+  "populate": {
+    "hellfish": {
+      "enabled": true,
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "netherfoundation:hellfish"
+        },
+        "material": "minecraft:netherrack",
+        "cluster-size": 12
+      },
+      "cluster-count": 8,
+      "min-height": 0,
+      "max-height": 128,
+      "retrogen": true,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "NETHER"
+          }
+        ]
+      },
+      "dimension": "all"
+    },
+    "nether_gold": {
+      "enabled": true,
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "netherfoundation:ore",
+          "properties": {
+            "type": "gold"
+          }
+        },
+        "material": "minecraft:netherrack",
+        "cluster-size": 8
+      },
+      "cluster-count": 4,
+      "min-height": 0,
+      "max-height": 128,
+      "retrogen": true,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "NETHER"
+          }
+        ]
+      },
+      "dimension": "all"
+    },
+    "nether_iron": {
+      "enabled": true,
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "netherfoundation:ore",
+          "properties": {
+            "type": "iron"
+          }
+        },
+        "material": "minecraft:netherrack",
+        "cluster-size": 8
+      },
+      "cluster-count": 20,
+      "min-height": 0,
+      "max-height": 128,
+      "retrogen": true,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "NETHER"
+          }
+        ]
+      },
+      "dimension": "all"
+    },
+    "nether_coal": {
+      "enabled": true,
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "netherfoundation:ore",
+          "properties": {
+            "type": "coal"
+          }
+        },
+        "material": "minecraft:netherrack",
+        "cluster-size": 16
+      },
+      "cluster-count": 20,
+      "min-height": 0,
+      "max-height": 128,
+      "retrogen": true,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "NETHER"
+          }
+        ]
+      },
+      "dimension": "all"
+    },
+    "nether_lapis": {
+      "enabled": true,
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "netherfoundation:ore",
+          "properties": {
+            "type": "lapis"
+          }
+        },
+        "material": "minecraft:netherrack",
+        "cluster-size": 8
+      },
+      "cluster-count": 4,
+      "min-height": 0,
+      "max-height": 128,
+      "retrogen": true,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "NETHER"
+          }
+        ]
+      },
+      "dimension": "all"
+    },
+    "nether_diamond": {
+      "enabled": true,
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "netherfoundation:ore",
+          "properties": {
+            "type": "diamond"
+          }
+        },
+        "material": "minecraft:netherrack",
+        "cluster-size": 8
+      },
+      "cluster-count": 2,
+      "min-height": 0,
+      "max-height": 128,
+      "retrogen": true,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "NETHER"
+          }
+        ]
+      },
+      "dimension": "all"
+    },
+    "nether_redstone": {
+      "enabled": true,
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "netherfoundation:ore",
+          "properties": {
+            "type": "redstone"
+          }
+        },
+        "material": "minecraft:netherrack",
+        "cluster-size": 8
+      },
+      "cluster-count": 8,
+      "min-height": 0,
+      "max-height": 128,
+      "retrogen": true,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "NETHER"
+          }
+        ]
+      },
+      "dimension": "all"
+    },
+    "nether_copper": {
+      "enabled": true,
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "netherfoundation:ore",
+          "properties": {
+            "type": "copper"
+          }
+        },
+        "material": "minecraft:netherrack",
+        "cluster-size": 8
+      },
+      "cluster-count": 12,
+      "min-height": 0,
+      "max-height": 128,
+      "retrogen": true,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "NETHER"
+          }
+        ]
+      },
+      "dimension": "all"
+    },
+    "nether_tin": {
+      "enabled": true,
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "netherfoundation:ore",
+          "properties": {
+            "type": "tin"
+          }
+        },
+        "material": "minecraft:netherrack",
+        "cluster-size": 8
+      },
+      "cluster-count": 10,
+      "min-height": 0,
+      "max-height": 128,
+      "retrogen": true,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "NETHER"
+          }
+        ]
+      },
+      "dimension": "all"
+    },
+    "nether_silver": {
+      "enabled": true,
+      "distribution": "uniform",
+      "generator": {
+        "block": [
+          {
+            "name": "netherfoundation:ore",
+            "properties": {
+              "type": "silver"
+            },
+            "weight": 80
+          },
+          {
+            "name": "netherfoundation:ore",
+            "properties": {
+              "type": "lead"
+            },
+            "weight": 20
+          }
+        ],
+        "material": "minecraft:netherrack",
+        "cluster-size": 8
+      },
+      "cluster-count": 6,
+      "min-height": 0,
+      "max-height": 128,
+      "retrogen": true,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "NETHER"
+          }
+        ]
+      },
+      "dimension": "all"
+    },
+    "nether_lead": {
+      "enabled": true,
+      "distribution": "uniform",
+      "generator": {
+        "block": [
+          {
+            "name": "netherfoundation:ore",
+            "properties": {
+              "type": "lead"
+            },
+            "weight": 90
+          },
+          {
+            "name": "netherfoundation:ore",
+            "properties": {
+              "type": "silver"
+            },
+            "weight": 10
+          }
+        ],
+        "material": "minecraft:netherrack",
+        "cluster-size": 8
+      },
+      "cluster-count": 6,
+      "min-height": 0,
+      "max-height": 128,
+      "retrogen": true,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "NETHER"
+          }
+        ]
+      },
+      "dimension": "all"
+    },
+    "nether_nickel": {
+      "enabled": true,
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "netherfoundation:ore",
+          "properties": {
+            "type": "nickel"
+          }
+        },
+        "material": "minecraft:netherrack",
+        "cluster-size": 4
+      },
+      "cluster-count": 4,
+      "min-height": 0,
+      "max-height": 128,
+      "retrogen": true,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "NETHER"
+          }
+        ]
+      },
+      "dimension": "all"
+    },
+    "nether_emerald": {
+      "enabled": true,
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "netherfoundation:ore",
+          "properties": {
+            "type": "emerald"
+          }
+        },
+        "material": "minecraft:netherrack",
+        "cluster-size": 1
+      },
+      "cluster-count": {
+        "min": 3,
+        "max": 6
+      },
+      "min-height": 0,
+      "max-height": 128,
+      "retrogen": true,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "NETHER"
+          }
+        ]
+      },
+      "dimension": "all"
+    }
+  }
+}
