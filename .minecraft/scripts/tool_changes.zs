@@ -64,9 +64,9 @@ recipes.removeShaped(<thermalfoundation:tool.sword_invar>);
 recipes.removeShaped(<thermalfoundation:tool.sickle_invar>);
 recipes.removeShaped(<thermalfoundation:tool.hammer_invar>);
 recipes.removeShaped(<thermalfoundation:tool.excavator_invar>);
-recipes.removeShaped(thermalfoundation:tool.shield_invar>);
-recipes.removeShaped(thermalfoundation:tool.bow_invar>);
-recipes.removeShaped(thermalfoundation:tool.fishing_rod_invar>);
+recipes.removeShaped(<thermalfoundation:tool.shield_invar>);
+recipes.removeShaped(<thermalfoundation:tool.bow_invar>);
+recipes.removeShaped(<thermalfoundation:tool.fishing_rod_invar>);
 # tin
 recipes.removeShaped(<thermalfoundation:tool.axe_tin>);
 recipes.removeShaped(<thermalfoundation:tool.pickaxe_tin>);
@@ -77,9 +77,9 @@ recipes.removeShaped(<thermalfoundation:tool.sword_tin>);
 recipes.removeShaped(<thermalfoundation:tool.sickle_tin>);
 recipes.removeShaped(<thermalfoundation:tool.hammer_tin>);
 recipes.removeShaped(<thermalfoundation:tool.excavator_tin>);
-recipes.removeShaped(thermalfoundation:tool.shield_tin>);
-recipes.removeShaped(thermalfoundation:tool.bow_tin>);
-recipes.removeShaped(thermalfoundation:tool.fishing_rod_tin>);
+recipes.removeShaped(<thermalfoundation:tool.shield_tin>);
+recipes.removeShaped(<thermalfoundation:tool.bow_tin>);
+recipes.removeShaped(<thermalfoundation:tool.fishing_rod_tin>);
 # platinum
 recipes.removeShaped(<thermalfoundation:tool.axe_platinum>);
 recipes.removeShaped(<thermalfoundation:tool.pickaxe_platinum>);
@@ -90,9 +90,9 @@ recipes.removeShaped(<thermalfoundation:tool.sword_platinum>);
 recipes.removeShaped(<thermalfoundation:tool.sickle_platinum>);
 recipes.removeShaped(<thermalfoundation:tool.hammer_platinum>);
 recipes.removeShaped(<thermalfoundation:tool.excavator_platinum>);
-recipes.removeShaped(thermalfoundation:tool.shield_platinum>);
-recipes.removeShaped(thermalfoundation:tool.bow_platinum>);
-recipes.removeShaped(thermalfoundation:tool.fishing_rod_platinum>);
+recipes.removeShaped(<thermalfoundation:tool.shield_platinum>);
+recipes.removeShaped(<thermalfoundation:tool.bow_platinum>);
+recipes.removeShaped(<thermalfoundation:tool.fishing_rod_platinum>);
 # lead
 recipes.removeShaped(<thermalfoundation:tool.axe_lead>);
 recipes.removeShaped(<thermalfoundation:tool.pickaxe_lead>);
@@ -103,9 +103,9 @@ recipes.removeShaped(<thermalfoundation:tool.sword_lead>);
 recipes.removeShaped(<thermalfoundation:tool.sickle_lead>);
 recipes.removeShaped(<thermalfoundation:tool.hammer_lead>);
 recipes.removeShaped(<thermalfoundation:tool.excavator_lead>);
-recipes.removeShaped(thermalfoundation:tool.shield_lead>);
-recipes.removeShaped(thermalfoundation:tool.bow_lead>);
-recipes.removeShaped(thermalfoundation:tool.fishing_rod_lead>);
+recipes.removeShaped(<thermalfoundation:tool.shield_lead>);
+recipes.removeShaped(<thermalfoundation:tool.bow_lead>);
+recipes.removeShaped(<thermalfoundation:tool.fishing_rod_lead>);
 # nickel
 recipes.removeShaped(<thermalfoundation:tool.axe_nickel>);
 recipes.removeShaped(<thermalfoundation:tool.pickaxe_nickel>);
@@ -116,9 +116,9 @@ recipes.removeShaped(<thermalfoundation:tool.sword_nickel>);
 recipes.removeShaped(<thermalfoundation:tool.sickle_nickel>);
 recipes.removeShaped(<thermalfoundation:tool.hammer_nickel>);
 recipes.removeShaped(<thermalfoundation:tool.excavator_nickel>);
-recipes.removeShaped(thermalfoundation:tool.shield_nickel>);
-recipes.removeShaped(thermalfoundation:tool.bow_nickel>);
-recipes.removeShaped(thermalfoundation:tool.fishing_rod_nickel>);
+recipes.removeShaped(<thermalfoundation:tool.shield_nickel>);
+recipes.removeShaped(<thermalfoundation:tool.bow_nickel>);
+recipes.removeShaped(<thermalfoundation:tool.fishing_rod_nickel>);
 # copper
 recipes.removeShaped(<thermalfoundation:tool.axe_copper>);
 recipes.removeShaped(<thermalfoundation:tool.pickaxe_copper>);
@@ -129,9 +129,9 @@ recipes.removeShaped(<thermalfoundation:tool.sword_copper>);
 recipes.removeShaped(<thermalfoundation:tool.sickle_copper>);
 recipes.removeShaped(<thermalfoundation:tool.hammer_copper>);
 recipes.removeShaped(<thermalfoundation:tool.excavator_copper>);
-recipes.removeShaped(thermalfoundation:tool.shield_copper>);
-recipes.removeShaped(thermalfoundation:tool.bow_copper>);
-recipes.removeShaped(thermalfoundation:tool.fishing_rod_copper>);
+recipes.removeShaped(<thermalfoundation:tool.shield_copper>);
+recipes.removeShaped(<thermalfoundation:tool.bow_copper>);
+recipes.removeShaped(<thermalfoundation:tool.fishing_rod_copper>);
 # bronze
 recipes.removeShaped(<thermalfoundation:tool.axe_bronze>);
 recipes.removeShaped(<thermalfoundation:tool.pickaxe_bronze>);
@@ -142,9 +142,9 @@ recipes.removeShaped(<thermalfoundation:tool.sword_bronze>);
 recipes.removeShaped(<thermalfoundation:tool.sickle_bronze>);
 recipes.removeShaped(<thermalfoundation:tool.hammer_bronze>);
 recipes.removeShaped(<thermalfoundation:tool.excavator_bronze>);
-recipes.removeShaped(thermalfoundation:tool.shield_bronze>);
-recipes.removeShaped(thermalfoundation:tool.bow_bronze>);
-recipes.removeShaped(thermalfoundation:tool.fishing_rod_bronze>);
+recipes.removeShaped(<thermalfoundation:tool.shield_bronze>);
+recipes.removeShaped(<thermalfoundation:tool.bow_bronze>);
+recipes.removeShaped(<thermalfoundation:tool.fishing_rod_bronze>);
 # electrum
 recipes.removeShaped(<thermalfoundation:tool.axe_electrum>);
 recipes.removeShaped(<thermalfoundation:tool.pickaxe_electrum>);
@@ -155,9 +155,9 @@ recipes.removeShaped(<thermalfoundation:tool.sword_electrum>);
 recipes.removeShaped(<thermalfoundation:tool.sickle_electrum>);
 recipes.removeShaped(<thermalfoundation:tool.hammer_electrum>);
 recipes.removeShaped(<thermalfoundation:tool.excavator_electrum>);
-recipes.removeShaped(thermalfoundation:tool.shield_electrum>);
-recipes.removeShaped(thermalfoundation:tool.bow_electrum>);
-recipes.removeShaped(thermalfoundation:tool.fishing_rod_electrum>);
+recipes.removeShaped(<thermalfoundation:tool.shield_electrum>);
+recipes.removeShaped(<thermalfoundation:tool.bow_electrum>);
+recipes.removeShaped(<thermalfoundation:tool.fishing_rod_electrum>);
 # silver
 recipes.removeShaped(<thermalfoundation:tool.axe_silver>);
 recipes.removeShaped(<thermalfoundation:tool.pickaxe_silver>);
@@ -168,9 +168,9 @@ recipes.removeShaped(<thermalfoundation:tool.sword_silver>);
 recipes.removeShaped(<thermalfoundation:tool.sickle_silver>);
 recipes.removeShaped(<thermalfoundation:tool.hammer_silver>);
 recipes.removeShaped(<thermalfoundation:tool.excavator_silver>);
-recipes.removeShaped(thermalfoundation:tool.shield_silver>);
-recipes.removeShaped(thermalfoundation:tool.bow_silver>);
-recipes.removeShaped(thermalfoundation:tool.fishing_rod_silver>);
+recipes.removeShaped(<thermalfoundation:tool.shield_silver>);
+recipes.removeShaped(<thermalfoundation:tool.bow_silver>);
+recipes.removeShaped(<thermalfoundation:tool.fishing_rod_silver>);
 
 
 recipes.addShaped(<thermalfoundation:tool.axe_invar> * 1, [[null, <tconstruct:axe_head>.withTag({Material: "invar"}), null], [null, <tconstruct:binding>.withTag({Material: "wood"}), null],[null, <tconstruct:tool_rod>.withTag({Material: "wood"}), null]]);
@@ -217,3 +217,9 @@ recipes.remove(<appliedenergistics2:certus_quartz_spade>);
 #recipes.remove(<appliedenergistics2:certus_quartz_cutting_knife>);
 #recipes.remove(<appliedenergistics2:nether_quartz_wrench>);
 #recipes.remove(<appliedenergistics2:certus_quartz_wrench>);
+
+
+# Custom Saws
+recipes.addShaped(<contenttweaker:flintsaw> * 1, [[<tconstruct:tool_rod>.withTag({Material: "wood"}), <tconstruct:tool_rod>.withTag({Material: "wood"}), <tconstruct:tool_rod>.withTag({Material: "wood"})],[<tconstruct:tool_rod>.withTag({Material: "wood"}), <tconstruct:kama_head>.withTag({Material: "flint"}), <tconstruct:kama_head>.withTag({Material: "flint"})],[null, null, null]]);
+recipes.addShaped(<contenttweaker:ironsaw> * 1, [[<tconstruct:tool_rod>.withTag({Material: "iron"}), <tconstruct:tool_rod>.withTag({Material: "iron"}), <tconstruct:tool_rod>.withTag({Material: "iron"})],[<tconstruct:tool_rod>.withTag({Material: "iron"}), <tconstruct:kama_head>.withTag({Material: "iron"}), <tconstruct:kama_head>.withTag({Material: "iron"})],[null, null, null]]);
+recipes.addShaped(<contenttweaker:diamondsaw> * 1, [[<tconstruct:tough_tool_rod>.withTag({Material: "iron"}), <tconstruct:tough_tool_rod>.withTag({Material: "iron"}), <tconstruct:tough_tool_rod>.withTag({Material: "iron"})],[<tconstruct:tough_tool_rod>.withTag({Material: "iron"}), <extrabitmanipulation:modeling_tool_head>, <extrabitmanipulation:modeling_tool_head>],[null, null, null]]);
