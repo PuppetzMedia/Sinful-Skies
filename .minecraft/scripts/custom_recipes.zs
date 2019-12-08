@@ -90,16 +90,22 @@ recipes.addShaped(<minecraft:flint_and_steel> * 1, [[<ore:ingotSteel>, <minecraf
 # Pams HarvestCraft
 recipes.remove(<harvestcraft:market>);
 
-# Thermal Expansions
-mods.thermalexpansion.InductionSmelter.removeRecipe(<minecraft:coal:1> * 4, <minecraft:iron_ingot>);
-mods.thermalexpansion.InductionSmelter.removeRecipe(<minecraft:coal:1> * 4, <thermalfoundation:material>);
-mods.thermalexpansion.InductionSmelter.removeRecipe(<thermalfoundation:material:2> * 2, <minecraft:iron_ingot>);
-mods.thermalexpansion.InductionSmelter.removeRecipe(<thermalfoundation:material:2> * 2, <minecraft:iron_ingot>);
-mods.thermalexpansion.InductionSmelter.removeRecipe(<thermalfoundation:material:2> * 2, <thermalfoundation:material>);
+# Thermal Expansion
+//remove steel recipes
+//pulv coal
+mods.thermalexpansion.InductionSmelter.removeRecipe(<thermalfoundation:material:768> * 4, <minecraft:iron_ingot>);
+mods.thermalexpansion.InductionSmelter.removeRecipe(<thermalfoundation:material:768> * 4, <thermalfoundation:material>);
+//pulv charcoal
+mods.thermalexpansion.InductionSmelter.removeRecipe(<thermalfoundation:material:769> * 4, <minecraft:iron_ingot>);
+mods.thermalexpansion.InductionSmelter.removeRecipe(<thermalfoundation:material:769> * 4, <thermalfoundation:material>);
+//coal coke
+mods.thermalexpansion.InductionSmelter.removeRecipe(<immersiveengineering:material:6> * 1, <minecraft:iron_ingot>);
+mods.thermalexpansion.InductionSmelter.removeRecipe(<immersiveengineering:material:6> * 1, <thermalfoundation:material>);
+
 
 
 /*
   Disable Smelting (By Mod)
 */
-mods.thermalexpansion.RedstoneFurnace.removeRecipe(<tconstruct:materials:36>);
-furnace.remove(<*>, <tconstruct:materials:36>);
+mods.thermalexpansion.RedstoneFurnace.removeRecipe(<thermalfoundation:material:69>);
+furnace.remove(<*>, <thermalfoundation:material:69>);
