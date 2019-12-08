@@ -33,6 +33,7 @@
 .minecraft/texturepacks
 .minecraft/mods
 .minecraft/resourcepacks
+.minecraft/dumps
 
 # IDE
 .idea/
