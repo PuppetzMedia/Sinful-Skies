@@ -1,8 +1,11 @@
 {
   "name": "geonach",
   "creatureType": "elemental",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityGeonach",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelGeonach",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelGeonach",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -37,7 +40,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 1,
   "eggBackColor": "#443333",
   "eggForeColor": "#BBBBCC",
@@ -55,6 +58,7 @@
     {
       "index": 3,
       "name": "celestial",
+      "scale": 2,
       "type": "rare"
     }
   ],
@@ -119,5 +123,11 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "blockBreakRadius",
+      "value": 0
+    }
+  ]
 }

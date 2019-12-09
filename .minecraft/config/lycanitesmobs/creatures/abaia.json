@@ -1,8 +1,11 @@
 {
   "name": "abaia",
   "creatureType": "aquatic",
+  "groups": [
+    "predator"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityAbaia",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelAbaia",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelAbaia",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -62,10 +65,15 @@
     {
       "index": 3,
       "name": "mottled",
+      "scale": 3,
       "type": "rare"
     }
   ],
   "element": "lightning",
+  "diets": [
+    "carnivore",
+    "piscivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,

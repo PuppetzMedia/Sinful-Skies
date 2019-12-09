@@ -1,8 +1,12 @@
 {
   "name": "serpix",
-  "creatureType": "arthropod",
+  "creatureType": "worm",
+  "groups": [
+    "predator",
+    "frozen"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntitySerpix",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelSerpix",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelSerpix",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -66,6 +70,11 @@
     }
   ],
   "element": "frost",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

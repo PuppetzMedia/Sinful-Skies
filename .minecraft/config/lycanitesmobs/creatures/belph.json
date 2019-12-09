@@ -1,8 +1,11 @@
 {
   "name": "belph",
   "creatureType": "demon",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityBelph",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelBelph",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelBelph",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -46,7 +49,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#992222",
   "eggForeColor": "#000000",
@@ -63,6 +66,12 @@
     }
   ],
   "element": "void",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore",
+    "fungivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,

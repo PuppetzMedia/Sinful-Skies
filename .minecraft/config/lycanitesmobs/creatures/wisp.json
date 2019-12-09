@@ -1,8 +1,9 @@
 {
   "name": "wisp",
   "creatureType": "elemental",
+  "groups": [],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityWisp",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelWisp",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelWisp",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -40,7 +41,7 @@
   "effectDuration": 30,
   "effectAmplifier": 0,
   "pierce": 0,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#f0eab6",
   "eggForeColor": "#fefcef",

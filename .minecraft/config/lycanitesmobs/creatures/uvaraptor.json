@@ -1,8 +1,11 @@
 {
   "name": "uvaraptor",
   "creatureType": "avian",
+  "groups": [
+    "predator"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityUvaraptor",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelUvaraptor",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelUvaraptor",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -45,7 +48,7 @@
   "effectDuration": 5,
   "effectAmplifier": -1,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#00FF33",
   "eggForeColor": "#FF00FF",
@@ -62,6 +65,12 @@
     }
   ],
   "element": "arbour",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore",
+    "frugivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

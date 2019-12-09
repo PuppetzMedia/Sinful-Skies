@@ -1,8 +1,11 @@
 {
   "name": "barghest",
   "creatureType": "beast",
+  "groups": [
+    "predator"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityBarghest",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelBarghest",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelBarghest",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -46,7 +49,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0.25,
   "eggBackColor": "#D08237",
   "eggForeColor": "#00070A",
@@ -63,6 +66,9 @@
     }
   ],
   "element": "fae",
+  "diets": [
+    "carnivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

@@ -1,8 +1,11 @@
 {
   "name": "geken",
   "creatureType": "beast",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityGeken",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelGeken",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelGeken",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -46,7 +49,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#00AA00",
   "eggForeColor": "#FFFF00",
@@ -63,6 +66,10 @@
     }
   ],
   "element": "fae",
+  "diets": [
+    "carnivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,

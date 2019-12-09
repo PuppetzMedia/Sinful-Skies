@@ -1,8 +1,11 @@
 {
   "name": "trite",
-  "creatureType": "demon",
+  "creatureType": "aberration",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityTrite",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelTrite",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelTrite",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -46,7 +49,7 @@
   "effectDuration": 3,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#FFFF88",
   "eggForeColor": "#000000",
@@ -58,11 +61,15 @@
     },
     {
       "index": 2,
-      "name": "light",
+      "name": "lux",
       "type": "uncommon"
     }
   ],
   "element": "nether",
+  "diets": [
+    "carnivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,

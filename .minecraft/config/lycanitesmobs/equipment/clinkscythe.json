@@ -10,7 +10,7 @@
     {
       "featureType": "harvest",
       "harvestType": "hoe",
-      "harvestStrength": 6,
+      "harvestSpeed": 6,
       "harvestShape": "block",
       "harvestRange": [
         1,
@@ -22,7 +22,7 @@
     {
       "featureType": "harvest",
       "harvestType": "shears",
-      "harvestStrength": 6,
+      "harvestSpeed": 6,
       "harvestShape": "block",
       "harvestRange": [
         1,
@@ -35,7 +35,7 @@
       "featureType": "harvest",
       "levelMax": 1,
       "harvestType": "shovel",
-      "harvestStrength": 6,
+      "harvestSpeed": 6,
       "harvestShape": "block",
       "harvestRange": [
         4,
@@ -49,7 +49,7 @@
       "levelMin": 2,
       "levelMax": 2,
       "harvestType": "shovel",
-      "harvestStrength": 7,
+      "harvestSpeed": 7,
       "harvestShape": "block",
       "harvestRange": [
         8,
@@ -62,7 +62,7 @@
       "featureType": "harvest",
       "levelMin": 3,
       "harvestType": "shovel",
-      "harvestStrength": 8,
+      "harvestSpeed": 8,
       "harvestShape": "block",
       "harvestRange": [
         16,

@@ -1,8 +1,11 @@
 {
   "name": "asmodeus",
-  "creatureType": "demon",
+  "creatureType": "aberration",
+  "groups": [
+    "boss"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityAsmodeus",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelAsmodeus",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelAsmodeus",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -59,6 +62,14 @@
     }
   ],
   "element": "nether",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore",
+    "herbivore",
+    "frugivore",
+    "fungivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": false,

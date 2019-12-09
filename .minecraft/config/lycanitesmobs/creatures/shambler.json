@@ -1,8 +1,11 @@
 {
   "name": "shambler",
   "creatureType": "plant",
+  "groups": [
+    "nature"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityShambler",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelShambler",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelShambler",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -47,7 +50,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 1,
   "eggBackColor": "#DDFF22",
   "eggForeColor": "#005511",
@@ -64,6 +67,9 @@
     }
   ],
   "element": "arbour",
+  "diets": [
+    "frugivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

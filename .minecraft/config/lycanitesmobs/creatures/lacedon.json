@@ -1,8 +1,11 @@
 {
   "name": "lacedon",
   "creatureType": "aquatic",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityLacedon",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelLacedon",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelLacedon",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -62,6 +65,11 @@
     }
   ],
   "element": "earth",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,

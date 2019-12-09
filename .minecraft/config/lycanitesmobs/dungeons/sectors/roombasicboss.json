@@ -7,14 +7,14 @@
   "tileSpawners": false,
   "tileChests": false,
   "sizeMin": [
-    16,
-    9,
-    16
+    32,
+    12,
+    32
   ],
   "sizeMax": [
-    32,
-    9,
-    32
+    40,
+    15,
+    40
   ],
   "floor": [
     {

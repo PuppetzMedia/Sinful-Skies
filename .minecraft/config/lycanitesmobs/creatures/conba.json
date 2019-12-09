@@ -1,8 +1,11 @@
 {
   "name": "conba",
   "creatureType": "beast",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityConba",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelConba",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelConba",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -45,7 +48,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#665500",
   "eggForeColor": "#CC99BB",
@@ -62,6 +65,9 @@
     }
   ],
   "element": "gravity",
+  "diets": [
+    "frugivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": false,

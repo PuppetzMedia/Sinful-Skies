@@ -192,6 +192,158 @@
       "minGroupCount": 8,
       "maxGroupCount": 12,
       "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:kobold",
+      "creatureType": "monster",
+      "weight": 8,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:wendigo",
+      "creatureType": "monster",
+      "weight": 4,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:maug",
+      "creatureType": "monster",
+      "weight": 4,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:astaroth",
+      "creatureType": "monster",
+      "weight": 2,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:zoataur",
+      "creatureType": "monster",
+      "weight": 2,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:serpix",
+      "creatureType": "monster",
+      "weight": 2,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:behemoth",
+      "creatureType": "monster",
+      "weight": 4,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:quillbeast",
+      "creatureType": "monster",
+      "weight": 4,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:wildkin",
+      "creatureType": "monster",
+      "weight": 4,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:trite",
+      "creatureType": "monster",
+      "weight": 8,
+      "minGroupCount": 3,
+      "maxGroupCount": 6,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:ventoraptor",
+      "creatureType": "monster",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:belph",
+      "creatureType": "monster",
+      "weight": 8,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:feradon",
+      "creatureType": "monster",
+      "weight": 4,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:frostweaver",
+      "creatureType": "monster",
+      "weight": 10,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "natura:imp",
+      "creatureType": "creature",
+      "weight": 10,
+      "minGroupCount": 8,
+      "maxGroupCount": 12,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:arisaur",
+      "creatureType": "creature",
+      "weight": 8,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:pinky",
+      "creatureType": "creature",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:yeti",
+      "creatureType": "creature",
+      "weight": 10,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:maka",
+      "creatureType": "creature",
+      "weight": 16,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
     }
   ],
   "features": [

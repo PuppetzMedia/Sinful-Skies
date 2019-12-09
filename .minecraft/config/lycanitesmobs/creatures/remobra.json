@@ -1,8 +1,11 @@
 {
   "name": "remobra",
   "creatureType": "dragon",
+  "groups": [
+    "opportunist"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityRemobra",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelRemobra",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelRemobra",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -45,7 +48,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#440066",
   "eggForeColor": "#DD00FF",
@@ -62,6 +65,11 @@
     }
   ],
   "element": "poison",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,

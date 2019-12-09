@@ -1,8 +1,11 @@
 {
   "name": "vespid",
   "creatureType": "arthropod",
+  "groups": [
+    "predator"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityVespid",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelVespid",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelVespid",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -45,7 +48,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#112200",
   "eggForeColor": "#998800",
@@ -62,6 +65,11 @@
     }
   ],
   "element": "arbour",
+  "diets": [
+    "carnivore",
+    "insectivore",
+    "frugivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": false,
@@ -89,5 +97,11 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "hiveBuilding",
+      "value": true
+    }
+  ]
 }

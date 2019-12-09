@@ -1,8 +1,11 @@
 {
   "name": "spriggan",
   "creatureType": "elemental",
+  "groups": [
+    "nature"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntitySpriggan",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelSpriggan",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelSpriggan",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -37,7 +40,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#997722",
   "eggForeColor": "#008844",
@@ -106,5 +109,11 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "farmingRate",
+      "value": 20
+    }
+  ]
 }

@@ -1,8 +1,11 @@
 {
   "name": "eechetik",
   "creatureType": "elemental",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityEechetik",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelEechetik",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelEechetik",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -27,17 +30,17 @@
   "width": 0.8,
   "height": 1.6,
   "experience": 30,
-  "health": 20,
+  "health": 15,
   "defense": 0,
   "armor": 0,
-  "speed": 28,
+  "speed": 22,
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 1,
   "effectDuration": 5,
-  "effectAmplifier": 3,
+  "effectAmplifier": 1,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#0e2609",
   "eggForeColor": "#d04bda",
@@ -87,5 +90,11 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "myceliumRadius",
+      "value": 2
+    }
+  ]
 }

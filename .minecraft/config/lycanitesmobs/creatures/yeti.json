@@ -1,8 +1,11 @@
 {
   "name": "yeti",
   "creatureType": "beast",
+  "groups": [
+    "animal"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityYeti",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelYeti",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelYeti",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -48,7 +51,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0.5,
   "eggBackColor": "#EEEEFF",
   "eggForeColor": "#000099",
@@ -65,7 +68,12 @@
     }
   ],
   "element": "frost",
+  "diets": [
+    "herbivore",
+    "frugivore"
+  ],
   "peaceful": true,
+  "farmable": true,
   "summonable": true,
   "tameable": false,
   "mountable": false,

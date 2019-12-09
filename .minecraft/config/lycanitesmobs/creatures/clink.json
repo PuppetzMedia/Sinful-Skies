@@ -1,8 +1,11 @@
 {
   "name": "clink",
   "creatureType": "imp",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityClink",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelClink",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelClink",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -48,7 +51,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#FFAAAA",
   "eggForeColor": "#999999",
@@ -65,6 +68,10 @@
     }
   ],
   "element": "gravity",
+  "diets": [
+    "carnivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,

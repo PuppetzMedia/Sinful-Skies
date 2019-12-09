@@ -1,8 +1,11 @@
 {
   "name": "treant",
   "creatureType": "plant",
+  "groups": [
+    "nature"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityTreant",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelTreant",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelTreant",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -45,7 +48,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 2,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 1,
   "eggBackColor": "#663300",
   "eggForeColor": "#00AA11",
@@ -62,8 +65,10 @@
     }
   ],
   "elements": [
-    "arbour",
-    "lightning"
+    "arbour"
+  ],
+  "diets": [
+    "frugivore"
   ],
   "peaceful": false,
   "summonable": false,

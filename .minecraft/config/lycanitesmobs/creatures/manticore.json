@@ -1,8 +1,11 @@
 {
   "name": "manticore",
   "creatureType": "beast",
+  "groups": [
+    "opportunist"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityManticore",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelManticore",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelManticore",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -47,7 +50,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#442200",
   "eggForeColor": "#990000",
@@ -66,6 +69,11 @@
   "elements": [
     "order",
     "quake"
+  ],
+  "diets": [
+    "carnivore",
+    "insectivore",
+    "frugivore"
   ],
   "peaceful": false,
   "summonable": true,

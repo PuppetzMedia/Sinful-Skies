@@ -1,8 +1,11 @@
 {
   "name": "tremor",
   "creatureType": "elemental",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityTremor",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelTremor",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelTremor",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -37,7 +40,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 1,
   "eggBackColor": "#a1b5bf",
   "eggForeColor": "#232d2e",
@@ -87,5 +90,11 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "explosionStrength",
+      "value": 1
+    }
+  ]
 }

@@ -1,8 +1,11 @@
 {
   "name": "jengu",
   "creatureType": "elemental",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityJengu",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelJengu",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelJengu",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -39,14 +42,14 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#000099",
   "eggForeColor": "#4444FF",
   "subspecies": [
     {
       "index": 1,
-      "name": "light",
+      "name": "lux",
       "type": "uncommon"
     },
     {

@@ -1,8 +1,11 @@
 {
   "name": "kobold",
   "creatureType": "beast",
+  "groups": [
+    "critter"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityKobold",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelKobold",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelKobold",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -47,7 +50,7 @@
   "effectDuration": 5,
   "effectAmplifier": -1,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#996633",
   "eggForeColor": "#FF7777",
@@ -64,7 +67,15 @@
     }
   ],
   "elements": [
-    "order"
+    "chaos"
+  ],
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore",
+    "herbivore",
+    "frugivore",
+    "fungivore"
   ],
   "peaceful": false,
   "summonable": true,
@@ -105,5 +116,15 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "griefing",
+      "value": true
+    },
+    {
+      "name": "theivery",
+      "value": true
+    }
+  ]
 }

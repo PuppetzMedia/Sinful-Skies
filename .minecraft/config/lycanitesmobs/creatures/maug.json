@@ -1,8 +1,11 @@
 {
   "name": "maug",
   "creatureType": "beast",
+  "groups": [
+    "predator"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityMaug",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelMaug",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelMaug",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -48,7 +51,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0.25,
   "eggBackColor": "#c9cccd",
   "eggForeColor": "#52504e",
@@ -65,6 +68,10 @@
     }
   ],
   "element": "frost",
+  "diets": [
+    "carnivore",
+    "piscivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

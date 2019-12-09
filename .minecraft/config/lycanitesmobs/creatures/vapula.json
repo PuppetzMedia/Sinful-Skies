@@ -1,8 +1,11 @@
 {
   "name": "vapula",
   "creatureType": "elemental",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityVapula",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelVapula",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelVapula",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -106,5 +109,11 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "blockBreakRadius",
+      "value": 0
+    }
+  ]
 }

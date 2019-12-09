@@ -1,8 +1,12 @@
 {
   "name": "quillbeast",
   "creatureType": "beast",
+  "groups": [
+    "critter",
+    "hardy"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityQuillbeast",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelQuillbeast",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelQuillbeast",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -48,7 +52,7 @@
   "effectDuration": 5,
   "effectAmplifier": -1,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0.25,
   "eggBackColor": "#642a12",
   "eggForeColor": "#6051fe",
@@ -60,11 +64,15 @@
     },
     {
       "index": 2,
-      "name": "light",
+      "name": "lux",
       "type": "uncommon"
     }
   ],
   "element": "order",
+  "diets": [
+    "herbivore",
+    "frugivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

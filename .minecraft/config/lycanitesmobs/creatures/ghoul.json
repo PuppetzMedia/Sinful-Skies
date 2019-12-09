@@ -1,8 +1,11 @@
 {
   "name": "ghoul",
   "creatureType": "undead",
+  "groups": [
+    "raider"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityGhoul",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelGhoul",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelGhoul",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -47,7 +50,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#009966",
   "eggForeColor": "#AAFFDD",
@@ -64,6 +67,11 @@
     }
   ],
   "element": "poison",
+  "diets": [
+    "carnivore",
+    "detritivore",
+    "fungivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,

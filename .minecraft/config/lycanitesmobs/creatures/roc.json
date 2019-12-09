@@ -1,8 +1,11 @@
 {
   "name": "roc",
   "creatureType": "avian",
+  "groups": [
+    "opportunist"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityRoc",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelRoc",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelRoc",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -20,6 +23,7 @@
     "biomes": [
       "plains",
       "savanna",
+      "forest",
       "-snowy"
     ],
     "spawnWeight": 16,
@@ -63,6 +67,11 @@
     }
   ],
   "element": "order",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,
@@ -84,5 +93,16 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "creeperDropping",
+      "value": true
+    }
+  ],
+  "mountOffset": [
+    0,
+    0.9,
+    0
+  ]
 }

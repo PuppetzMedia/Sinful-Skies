@@ -1,8 +1,11 @@
 {
   "name": "concapedesegment",
   "creatureType": "arthropod",
+  "groups": [
+    "animal"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityConcapedeSegment",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelConcapedeSegment",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelConcapedeSegment",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -29,7 +32,7 @@
     "despawnNatural": false,
     "despawnForced": false
   },
-  "width": 0.5,
+  "width": 0.9,
   "height": 0.9,
   "experience": 5,
   "health": 5,
@@ -42,7 +45,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#000022",
   "eggForeColor": "#990000",
@@ -59,7 +62,11 @@
     }
   ],
   "element": "arbour",
+  "diets": [
+    "frugivore"
+  ],
   "peaceful": true,
+  "farmable": false,
   "summonable": false,
   "tameable": false,
   "mountable": false,
@@ -76,7 +83,7 @@
       "item": "lycanitesmobs:concapedemeatraw",
       "burningItem": "lycanitesmobs:concapedemeatcooked",
       "minAmount": 1,
-      "maxAmount": 3,
+      "maxAmount": 1,
       "chance": 1
     }
   ],

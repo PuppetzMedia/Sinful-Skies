@@ -1,8 +1,12 @@
 {
   "name": "wendigo",
-  "creatureType": "brute",
+  "creatureType": "undead",
+  "groups": [
+    "monster",
+    "frozen"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityWendigo",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelWendigo",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelWendigo",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -49,7 +53,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 1,
   "eggBackColor": "#CCCCFF",
   "eggForeColor": "#0055FF",
@@ -66,6 +70,10 @@
     }
   ],
   "element": "frost",
+  "diets": [
+    "carnivore",
+    "detritivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": false,

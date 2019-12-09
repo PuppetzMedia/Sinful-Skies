@@ -10,22 +10,26 @@
     {
       "featureType": "harvest",
       "harvestType": "pickaxe",
-      "harvestStrength": 6
+      "harvestSpeed": 3,
+      "harvestLevel": 1
     },
     {
       "featureType": "harvest",
       "harvestType": "axe",
-      "harvestStrength": 6
+      "harvestSpeed": 3,
+      "harvestLevel": 1
     },
     {
       "featureType": "harvest",
       "harvestType": "shovel",
-      "harvestStrength": 6
+      "harvestSpeed": 3,
+      "harvestLevel": 1
     },
     {
       "featureType": "harvest",
       "harvestType": "hoe",
-      "harvestStrength": 6
+      "harvestSpeed": 3,
+      "harvestLevel": 1
     },
     {
       "featureType": "damage",

@@ -1,8 +1,11 @@
 {
   "name": "joustalpha",
   "creatureType": "arthropod",
+  "groups": [
+    "alpha"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityJoustAlpha",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelJoustAlpha",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelJoustAlpha",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -45,7 +48,7 @@
   "effectDuration": 5,
   "effectAmplifier": -1,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0.25,
   "eggBackColor": "#FF0000",
   "eggForeColor": "#FFFF00",
@@ -62,6 +65,9 @@
     }
   ],
   "element": "quake",
+  "diets": [
+    "exudativore"
+  ],
   "peaceful": true,
   "summonable": false,
   "tameable": false,

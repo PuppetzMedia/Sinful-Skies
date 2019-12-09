@@ -1,8 +1,11 @@
 {
   "name": "wildkin",
-  "creatureType": "beast",
+  "creatureType": "brute",
+  "groups": [
+    "raider"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityWildkin",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelWildkin",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelWildkin",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -47,14 +50,14 @@
   "effectDuration": 5,
   "effectAmplifier": 1,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 1,
   "eggBackColor": "#433929",
   "eggForeColor": "#766f5a",
   "subspecies": [
     {
       "index": 1,
-      "name": "light",
+      "name": "lux",
       "type": "uncommon"
     },
     {
@@ -64,6 +67,13 @@
     }
   ],
   "element": "earth",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore",
+    "herbivore",
+    "frugivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

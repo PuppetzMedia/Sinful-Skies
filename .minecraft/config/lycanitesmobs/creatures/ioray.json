@@ -1,8 +1,11 @@
 {
   "name": "ioray",
   "creatureType": "aquatic",
+  "groups": [
+    "predator"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityIoray",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelIoray",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelIoray",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -52,7 +55,7 @@
   "subspecies": [
     {
       "index": 1,
-      "name": "light",
+      "name": "lux",
       "type": "uncommon"
     },
     {
@@ -62,6 +65,9 @@
     }
   ],
   "element": "acid",
+  "diets": [
+    "piscivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

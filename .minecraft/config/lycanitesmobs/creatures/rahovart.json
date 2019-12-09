@@ -1,8 +1,11 @@
 {
   "name": "rahovart",
   "creatureType": "demon",
+  "groups": [
+    "boss"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityRahovart",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelRahovart",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelRahovart",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -49,7 +52,7 @@
   "subspecies": [
     {
       "index": 1,
-      "name": "light",
+      "name": "lux",
       "type": "uncommon"
     },
     {
@@ -59,6 +62,11 @@
     }
   ],
   "element": "nether",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": false,

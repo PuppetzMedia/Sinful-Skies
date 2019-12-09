@@ -1,8 +1,11 @@
 {
   "name": "reiver",
   "creatureType": "elemental",
+  "groups": [
+    "frozen"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityReiver",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelReiver",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelReiver",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -47,7 +50,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#DDEEFF",
   "eggForeColor": "#99DDEE",

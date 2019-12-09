@@ -1,8 +1,11 @@
 {
   "name": "grue",
   "creatureType": "elemental",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityGrue",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelGrue",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelGrue",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -41,7 +44,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#191017",
   "eggForeColor": "#BB44AA",
@@ -59,6 +62,7 @@
     {
       "index": 3,
       "name": "lunar",
+      "scale": 2,
       "type": "rare"
     }
   ],

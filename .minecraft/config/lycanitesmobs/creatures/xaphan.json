@@ -1,8 +1,11 @@
 {
   "name": "xaphan",
   "creatureType": "elemental",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityXaphan",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelXaphan",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelXaphan",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -37,7 +40,7 @@
   "effectDuration": 5,
   "effectAmplifier": 1,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#00af06",
   "eggForeColor": "#00f608",

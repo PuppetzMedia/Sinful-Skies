@@ -223,6 +223,54 @@
       "minGroupCount": 8,
       "maxGroupCount": 12,
       "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:astaroth",
+      "creatureType": "monster",
+      "weight": 20,
+      "minGroupCount": 1,
+      "maxGroupCount": 2,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:behemoth",
+      "creatureType": "monster",
+      "weight": 40,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:trite",
+      "creatureType": "monster",
+      "weight": 80,
+      "minGroupCount": 3,
+      "maxGroupCount": 6,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:belph",
+      "creatureType": "monster",
+      "weight": 80,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
+    },
+    {
+      "entity": "natura:imp",
+      "creatureType": "creature",
+      "weight": 10,
+      "minGroupCount": 8,
+      "maxGroupCount": 12,
+      "spawn": true
+    },
+    {
+      "entity": "lycanitesmobs:pinky",
+      "creatureType": "creature",
+      "weight": 60,
+      "minGroupCount": 1,
+      "maxGroupCount": 3,
+      "spawn": true
     }
   ],
   "features": [

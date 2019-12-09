@@ -1,8 +1,11 @@
 {
   "name": "roa",
   "creatureType": "aquatic",
+  "groups": [
+    "predator"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityRoa",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelRoa",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelRoa",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -62,6 +65,10 @@
     }
   ],
   "element": "water",
+  "diets": [
+    "carnivore",
+    "piscivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,
@@ -86,5 +93,11 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "whirlpoolRange",
+      "value": 6
+    }
+  ]
 }

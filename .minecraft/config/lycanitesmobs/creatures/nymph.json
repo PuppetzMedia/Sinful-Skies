@@ -1,8 +1,11 @@
 {
   "name": "nymph",
   "creatureType": "elemental",
+  "groups": [
+    "mystic"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityNymph",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelNymph",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelNymph",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -40,7 +43,7 @@
   "effectDuration": 20,
   "effectAmplifier": 0,
   "pierce": 0,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#f9b1fc",
   "eggForeColor": "#ffc5c1",
@@ -164,5 +167,11 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "healingRate",
+      "value": 20
+    }
+  ]
 }

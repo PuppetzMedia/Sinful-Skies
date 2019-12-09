@@ -1,8 +1,11 @@
 {
   "name": "cinder",
   "creatureType": "elemental",
+  "groups": [
+    "inferno"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityCinder",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelCinder",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelCinder",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -37,7 +40,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#FF9900",
   "eggForeColor": "#FFFF00",

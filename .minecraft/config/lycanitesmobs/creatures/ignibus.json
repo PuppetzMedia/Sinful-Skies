@@ -1,8 +1,11 @@
 {
   "name": "ignibus",
   "creatureType": "dragon",
+  "groups": [
+    "inferno"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityIgnibus",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelIgnibus",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelIgnibus",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -42,7 +45,8 @@
   "effectAmplifier": 0,
   "pierce": 1,
   "sight": 24,
-  "knockbackResistance": 0,
+  "knockbackResistance": 0.5,
+  "packSize": 1,
   "eggBackColor": "#BB0000",
   "eggForeColor": "#00DD00",
   "subspecies": [
@@ -58,6 +62,10 @@
     }
   ],
   "element": "lava",
+  "diets": [
+    "carnivore",
+    "piscivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

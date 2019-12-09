@@ -1,8 +1,11 @@
 {
   "name": "raiko",
   "creatureType": "avian",
+  "groups": [
+    "opportunist"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityRaiko",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelRaiko",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelRaiko",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -61,6 +64,11 @@
     }
   ],
   "element": "earth",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

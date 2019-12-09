@@ -1,8 +1,11 @@
 {
   "name": "feradon",
   "creatureType": "beast",
+  "groups": [
+    "predator"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityFeradon",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelFeradon",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelFeradon",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -47,7 +50,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0.25,
   "eggBackColor": "#e4a23d",
   "eggForeColor": "#552d0e",
@@ -64,6 +67,9 @@
     }
   ],
   "element": "order",
+  "diets": [
+    "carnivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

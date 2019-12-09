@@ -1,8 +1,11 @@
 {
   "name": "ventoraptor",
   "creatureType": "avian",
+  "groups": [
+    "predator"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityVentoraptor",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelVentoraptor",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelVentoraptor",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -40,14 +43,14 @@
   "health": 20,
   "defense": 0,
   "armor": 0,
-  "speed": 28,
+  "speed": 32,
   "damage": 4,
   "attackSpeed": 1,
   "rangedSpeed": 1,
   "effectDuration": 5,
   "effectAmplifier": -1,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0.25,
   "eggBackColor": "#99BBFF",
   "eggForeColor": "#0033FF",
@@ -64,6 +67,12 @@
     }
   ],
   "element": "order",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore",
+    "frugivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

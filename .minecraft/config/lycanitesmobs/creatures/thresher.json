@@ -1,8 +1,11 @@
 {
   "name": "thresher",
   "creatureType": "aquatic",
+  "groups": [
+    "predator"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityThresher",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelThresher",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelThresher",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -18,7 +21,10 @@
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
     "biomes": [
-      "all"
+      "all",
+      "-swamp",
+      "-jungle",
+      "-dense"
     ],
     "spawnWeight": 1,
     "dungeonWeight": 0,
@@ -46,6 +52,7 @@
   "pierce": 2,
   "sight": 32,
   "knockbackResistance": 1,
+  "packSize": 1,
   "eggBackColor": "#77747e",
   "eggForeColor": "#3f4567",
   "subspecies": [
@@ -61,6 +68,11 @@
     }
   ],
   "element": "water",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,
@@ -98,5 +110,11 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "whirlpoolRange",
+      "value": 8
+    }
+  ]
 }

@@ -1,8 +1,11 @@
 {
   "name": "pinky",
   "creatureType": "demon",
+  "groups": [
+    "predator"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityPinky",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelPinky",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelPinky",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -11,16 +14,19 @@
       "creature",
       "animal",
       "portal",
-      "nether"
+      "nether",
+      "end"
     ],
     "disableSubspecies": false,
     "dimensionIds": [
-      -1
+      -1,
+      1
     ],
     "dimensionListType": "whitelist",
     "ignoreBiome": true,
     "biomes": [
-      "nether"
+      "nether",
+      "end"
     ],
     "spawnWeight": 6,
     "dungeonWeight": 200,
@@ -33,10 +39,10 @@
     "despawnNatural": false,
     "despawnForced": false
   },
-  "width": 0.9,
+  "width": 1.6,
   "height": 1.9,
   "experience": 5,
-  "health": 20,
+  "health": 30,
   "defense": 1,
   "armor": 0,
   "speed": 28,
@@ -46,8 +52,9 @@
   "effectDuration": 5,
   "effectAmplifier": -1,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0.25,
+  "packSize": 1,
   "eggBackColor": "#FF0099",
   "eggForeColor": "#990000",
   "subspecies": [
@@ -60,10 +67,90 @@
       "index": 2,
       "name": "scarlet",
       "type": "uncommon"
+    },
+    {
+      "index": 4,
+      "skin": "moloch",
+      "modelClass": "com.lycanitesmobs.client.model.creature.ModelPinkyMoloch",
+      "type": "common",
+      "priority": 1,
+      "elements": [
+        "void"
+      ],
+      "conditions": [
+        {
+          "type": "world",
+          "dimensionIds": [
+            1
+          ],
+          "dimensionListType": "whitelist"
+        }
+      ],
+      "mountOffset": [
+        0,
+        1.0,
+        0
+      ]
+    },
+    {
+      "index": 5,
+      "skin": "moloch",
+      "modelClass": "com.lycanitesmobs.client.model.creature.ModelPinkyMoloch",
+      "color": "verdant",
+      "type": "uncommon",
+      "priority": 1,
+      "elements": [
+        "void"
+      ],
+      "conditions": [
+        {
+          "type": "world",
+          "dimensionIds": [
+            1
+          ],
+          "dimensionListType": "whitelist"
+        }
+      ],
+      "mountOffset": [
+        0,
+        1.0,
+        0
+      ]
+    },
+    {
+      "index": 6,
+      "skin": "moloch",
+      "modelClass": "com.lycanitesmobs.client.model.creature.ModelPinkyMoloch",
+      "color": "golden",
+      "type": "uncommon",
+      "priority": 1,
+      "elements": [
+        "void"
+      ],
+      "conditions": [
+        {
+          "type": "world",
+          "dimensionIds": [
+            1
+          ],
+          "dimensionListType": "whitelist"
+        }
+      ],
+      "mountOffset": [
+        0,
+        1.0,
+        0
+      ]
     }
   ],
   "element": "nether",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": true,
+  "farmable": true,
   "summonable": false,
   "tameable": true,
   "mountable": true,
@@ -79,5 +166,10 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "mountOffset": [
+    0,
+    1.1,
+    0
+  ]
 }

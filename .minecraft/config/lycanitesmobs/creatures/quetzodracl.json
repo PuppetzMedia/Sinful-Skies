@@ -1,8 +1,11 @@
 {
   "name": "quetzodracl",
   "creatureType": "dragon",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityQuetzodracl",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelQuetzodracl",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelQuetzodracl",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -61,6 +64,11 @@
     }
   ],
   "element": "earth",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

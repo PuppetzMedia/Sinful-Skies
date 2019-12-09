@@ -1,8 +1,11 @@
 {
   "name": "astaroth",
-  "creatureType": "demon",
+  "creatureType": "aberration",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityAstaroth",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelAstaroth",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelAstaroth",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -66,9 +69,12 @@
     {
       "index": 4,
       "skin": "void",
-      "modelClass": "com.lycanitesmobs.core.model.creature.ModelAstarothVoid",
+      "modelClass": "com.lycanitesmobs.client.model.creature.ModelAstarothVoid",
       "type": "common",
       "priority": 1,
+      "elements": [
+        "void"
+      ],
       "conditions": [
         {
           "type": "world",
@@ -82,10 +88,13 @@
     {
       "index": 5,
       "skin": "void",
-      "modelClass": "com.lycanitesmobs.core.model.creature.ModelAstarothVoid",
+      "modelClass": "com.lycanitesmobs.client.model.creature.ModelAstarothVoid",
       "color": "violet",
       "type": "uncommon",
       "priority": 1,
+      "elements": [
+        "void"
+      ],
       "conditions": [
         {
           "type": "world",
@@ -99,10 +108,13 @@
     {
       "index": 6,
       "skin": "void",
-      "modelClass": "com.lycanitesmobs.core.model.creature.ModelAstarothVoid",
+      "modelClass": "com.lycanitesmobs.client.model.creature.ModelAstarothVoid",
       "color": "keppel",
       "type": "uncommon",
       "priority": 1,
+      "elements": [
+        "void"
+      ],
       "conditions": [
         {
           "type": "world",
@@ -115,6 +127,14 @@
     }
   ],
   "element": "nether",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore",
+    "herbivore",
+    "frugivore",
+    "fungivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,

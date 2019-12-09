@@ -1,8 +1,11 @@
 {
   "name": "cockatrice",
   "creatureType": "dragon",
+  "groups": [
+    "predator"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityCockatrice",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelCockatrice",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelCockatrice",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -18,7 +21,8 @@
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
     "biomes": [
-      "jungle"
+      "jungle",
+      "mountain"
     ],
     "spawnWeight": 1,
     "dungeonWeight": 0,
@@ -63,6 +67,13 @@
   "elements": [
     "gravity",
     "lightning"
+  ],
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore",
+    "herbivore",
+    "frugivore"
   ],
   "peaceful": false,
   "summonable": false,

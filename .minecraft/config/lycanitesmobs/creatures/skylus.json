@@ -1,8 +1,11 @@
 {
   "name": "skylus",
   "creatureType": "aquatic",
+  "groups": [
+    "predator"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntitySkylus",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelSkylus",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelSkylus",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -63,6 +66,11 @@
     }
   ],
   "element": "shadow",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,

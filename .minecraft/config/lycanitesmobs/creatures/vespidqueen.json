@@ -1,8 +1,11 @@
 {
   "name": "vespidqueen",
   "creatureType": "arthropod",
+  "groups": [
+    "predator"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityVespidQueen",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelVespidQueen",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelVespidQueen",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -45,7 +48,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0.25,
   "eggBackColor": "#223300",
   "eggForeColor": "#FFCC00",
@@ -64,6 +67,11 @@
   "elements": [
     "acid",
     "poison"
+  ],
+  "diets": [
+    "carnivore",
+    "insectivore",
+    "frugivore"
   ],
   "peaceful": false,
   "summonable": false,
@@ -92,5 +100,11 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "swarmLimit",
+      "value": 10
+    }
+  ]
 }

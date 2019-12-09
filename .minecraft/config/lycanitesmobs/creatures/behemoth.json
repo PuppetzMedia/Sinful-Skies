@@ -1,8 +1,11 @@
 {
   "name": "behemoth",
   "creatureType": "demon",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityBehemoth",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelBehemoth",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelBehemoth",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -42,11 +45,11 @@
   "speed": 24,
   "damage": 2,
   "attackSpeed": 1,
-  "rangedSpeed": 0.25,
+  "rangedSpeed": 0.75,
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0.25,
   "eggBackColor": "#FF2222",
   "eggForeColor": "#FF9900",
@@ -63,6 +66,11 @@
     }
   ],
   "element": "void",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,

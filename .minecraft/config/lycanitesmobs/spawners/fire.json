@@ -7,7 +7,15 @@
   "ignoreDimensions": true,
   "ignoreBiomes": true,
   "ignoreLightLevel": true,
-  "conditions": [],
+  "conditions": [
+    {
+      "type": "world",
+      "dimensionIds": [
+        -1
+      ],
+      "dimensionListType": "blacklist"
+    }
+  ],
   "triggers": [
     {
       "type": "world",

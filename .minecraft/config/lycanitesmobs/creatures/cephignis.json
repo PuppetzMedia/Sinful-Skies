@@ -1,8 +1,11 @@
 {
   "name": "cephignis",
   "creatureType": "aquatic",
+  "groups": [
+    "animal"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityCephignis",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelCephignis",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelCephignis",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -41,7 +44,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#FFBB00",
   "eggForeColor": "#DD00FF",
@@ -58,7 +61,11 @@
     }
   ],
   "element": "lava",
+  "diets": [
+    "geovore"
+  ],
   "peaceful": true,
+  "farmable": true,
   "summonable": false,
   "tameable": false,
   "mountable": false,

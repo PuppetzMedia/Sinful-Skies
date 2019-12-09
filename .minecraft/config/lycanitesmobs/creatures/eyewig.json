@@ -1,8 +1,11 @@
 {
   "name": "eyewig",
   "creatureType": "arthropod",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityEyewig",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelEyewig",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelEyewig",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -47,7 +50,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#000000",
   "eggForeColor": "#009900",
@@ -66,6 +69,12 @@
   "elements": [
     "arbour",
     "shadow"
+  ],
+  "diets": [
+    "carnivore",
+    "insectivore",
+    "frugivore",
+    "fungivore"
   ],
   "peaceful": false,
   "summonable": false,

@@ -1,8 +1,11 @@
 {
   "name": "lurker",
-  "creatureType": "beast",
+  "creatureType": "arthropod",
+  "groups": [
+    "predator"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityLurker",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelLurker",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelLurker",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -48,7 +51,7 @@
   "effectDuration": 5,
   "effectAmplifier": 1,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#009900",
   "eggForeColor": "#99FF00",
@@ -67,6 +70,13 @@
   "elements": [
     "poison",
     "shadow"
+  ],
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore",
+    "frugivore",
+    "fungivore"
   ],
   "peaceful": false,
   "summonable": false,

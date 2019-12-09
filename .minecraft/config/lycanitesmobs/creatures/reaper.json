@@ -1,8 +1,11 @@
 {
   "name": "reaper",
   "creatureType": "undead",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityReaper",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelReaper",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelReaper",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -41,7 +44,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#101519",
   "eggForeColor": "#DD2233",

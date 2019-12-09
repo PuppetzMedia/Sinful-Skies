@@ -1,8 +1,11 @@
 {
   "name": "makaalpha",
   "creatureType": "beast",
+  "groups": [
+    "alpha"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityMakaAlpha",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelMakaAlpha",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelMakaAlpha",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -44,7 +47,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 1,
   "eggBackColor": "#663300",
   "eggForeColor": "#000000",
@@ -61,6 +64,9 @@
     }
   ],
   "element": "order",
+  "diets": [
+    "herbivore"
+  ],
   "peaceful": true,
   "summonable": false,
   "tameable": false,

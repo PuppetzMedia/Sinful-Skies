@@ -10,7 +10,7 @@
     {
       "featureType": "harvest",
       "harvestType": "hoe",
-      "harvestStrength": 6,
+      "harvestSpeed": 6,
       "harvestShape": "block",
       "harvestRange": [
         1,
@@ -22,7 +22,7 @@
     {
       "featureType": "harvest",
       "harvestType": "shears",
-      "harvestStrength": 6,
+      "harvestSpeed": 6,
       "harvestShape": "block",
       "harvestRange": [
         1,

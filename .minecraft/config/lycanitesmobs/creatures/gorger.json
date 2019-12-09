@@ -1,8 +1,11 @@
 {
   "name": "gorger",
-  "creatureType": "arthropod",
+  "creatureType": "worm",
+  "groups": [
+    "predator"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityGorger",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelGorger",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelGorger",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -43,6 +46,7 @@
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0.5,
+  "packSize": 1,
   "eggBackColor": "#DE2A00",
   "eggForeColor": "#200905",
   "subspecies": [
@@ -58,6 +62,12 @@
     }
   ],
   "element": "lava",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore",
+    "geovore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

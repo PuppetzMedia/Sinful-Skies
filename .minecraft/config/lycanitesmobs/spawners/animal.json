@@ -19,18 +19,19 @@
     {
       "type": "random",
       "rangeMin": [
-        42,
+        32,
         0,
-        42
+        32
       ],
       "rangeMax": [
-        32,
         48,
-        32
+        48,
+        48
       ],
       "sorting": "random",
       "limit": 32,
-      "solidGround": true
+      "solidGround": true,
+      "underground": false
     }
   ]
 }

@@ -1,8 +1,11 @@
 {
   "name": "zoataur",
   "creatureType": "beast",
+  "groups": [
+    "predator"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityZoataur",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelZoataur",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelZoataur",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -47,8 +50,9 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0.25,
+  "packSize": 1,
   "eggBackColor": "#442200",
   "eggForeColor": "#FFDDBB",
   "subspecies": [
@@ -59,11 +63,16 @@
     },
     {
       "index": 2,
-      "name": "light",
+      "name": "lux",
       "type": "uncommon"
     }
   ],
   "element": "order",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": false,

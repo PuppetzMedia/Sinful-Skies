@@ -1,8 +1,11 @@
 {
   "name": "ettin",
   "creatureType": "brute",
+  "groups": [
+    "raider"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityEttin",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelEttin",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelEttin",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -46,7 +49,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#669900",
   "eggForeColor": "#FF6600",
@@ -63,6 +66,14 @@
     }
   ],
   "element": "quake",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore",
+    "herbivore",
+    "frugivore",
+    "fungivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": false,
@@ -102,5 +113,11 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "griefing",
+      "value": true
+    }
+  ]
 }

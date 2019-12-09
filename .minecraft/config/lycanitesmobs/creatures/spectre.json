@@ -1,8 +1,11 @@
 {
   "name": "spectre",
   "creatureType": "elemental",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntitySpectre",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelSpectre",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelSpectre",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -53,7 +56,7 @@
     },
     {
       "index": 2,
-      "name": "light",
+      "name": "lux",
       "type": "uncommon"
     }
   ],

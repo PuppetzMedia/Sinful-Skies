@@ -1,8 +1,11 @@
 {
   "name": "lobber",
   "creatureType": "brute",
+  "groups": [
+    "inferno"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityLobber",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelLobber",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelLobber",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -59,11 +62,15 @@
     {
       "index": 3,
       "name": "umber",
+      "scale": 2,
       "type": "rare"
     }
   ],
   "elements": [
     "lava"
+  ],
+  "diets": [
+    "geovore"
   ],
   "peaceful": false,
   "summonable": false,
@@ -105,5 +112,11 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "blockMeltingRadius",
+      "value": 2
+    }
+  ]
 }

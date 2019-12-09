@@ -1,8 +1,11 @@
 {
   "name": "epion",
   "creatureType": "beast",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityEpion",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelEpion",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelEpion",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -42,7 +45,7 @@
   "effectDuration": 5,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#553300",
   "eggForeColor": "#FF22DD",
@@ -59,6 +62,11 @@
     }
   ],
   "element": "void",
+  "diets": [
+    "carnivore",
+    "insectivore",
+    "frugivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": false,
@@ -86,5 +94,11 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "griefing",
+      "value": true
+    }
+  ]
 }

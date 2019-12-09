@@ -1,0 +1,15 @@
+{
+  "name": "guardian",
+  "loadDefault": true,
+  "hunt": [
+    "monster",
+    "raider"
+  ],
+  "pack": [],
+  "wary": [],
+  "flee": [],
+  "ignore": [
+    "boss"
+  ],
+  "default": "retaliate"
+}

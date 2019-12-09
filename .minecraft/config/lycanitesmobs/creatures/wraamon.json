@@ -1,8 +1,11 @@
 {
   "name": "wraamon",
   "creatureType": "beast",
+  "groups": [
+    "monster"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityWraamon",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelWraamon",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelWraamon",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -32,17 +35,17 @@
   "width": 0.5,
   "height": 0.5,
   "experience": 5,
-  "health": 15,
+  "health": 5,
   "defense": 0,
   "armor": 0,
-  "speed": 36,
+  "speed": 32,
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
   "effectDuration": 3,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 0,
   "eggBackColor": "#206d1e",
   "eggForeColor": "#822b9e",
@@ -54,11 +57,19 @@
     },
     {
       "index": 2,
-      "name": "light",
+      "name": "lux",
       "type": "uncommon"
     }
   ],
   "element": "chaos",
+  "diets": [
+    "carnivore",
+    "piscivore",
+    "insectivore",
+    "herbivore",
+    "frugivore",
+    "fungivore"
+  ],
   "peaceful": false,
   "summonable": true,
   "tameable": false,

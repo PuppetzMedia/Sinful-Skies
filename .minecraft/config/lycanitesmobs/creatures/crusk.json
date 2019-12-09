@@ -1,8 +1,11 @@
 {
   "name": "crusk",
-  "creatureType": "arthropod",
+  "creatureType": "worm",
+  "groups": [
+    "predator"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityCrusk",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelCrusk",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelCrusk",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -48,8 +51,9 @@
   "effectDuration": 3,
   "effectAmplifier": 0,
   "pierce": 1,
-  "sight": 16,
+  "sight": 24,
   "knockbackResistance": 1,
+  "packSize": 1,
   "eggBackColor": "#FFDDAA",
   "eggForeColor": "#000000",
   "subspecies": [
@@ -60,11 +64,15 @@
     },
     {
       "index": 2,
-      "name": "light",
+      "name": "lux",
       "type": "uncommon"
     }
   ],
   "element": "quake",
+  "diets": [
+    "carnivore",
+    "insectivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": true,

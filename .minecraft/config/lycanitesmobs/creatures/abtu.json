@@ -1,8 +1,11 @@
 {
   "name": "abtu",
   "creatureType": "aquatic",
+  "groups": [
+    "predator"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityAbtu",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelAbtu",
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelAbtu",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -62,6 +65,10 @@
     }
   ],
   "element": "water",
+  "diets": [
+    "carnivore",
+    "piscivore"
+  ],
   "peaceful": false,
   "summonable": false,
   "tameable": false,
@@ -80,5 +87,11 @@
     }
   ],
   "sizeScale": 1,
-  "hitboxScale": 1
+  "hitboxScale": 1,
+  "flags": [
+    {
+      "name": "swarmLimit",
+      "value": 5
+    }
+  ]
 }
