@@ -2,6 +2,9 @@
   Imports
 */
 import mods.thermalexpansion.RedstoneFurnace;
+import mods.thermalexpansion.Pulverizer;
+import mods.enderio.SagMill;
+import mods.extrautils2.Crusher;
  
 /*
   Core Variables
@@ -52,6 +55,8 @@ recipes.addShaped(<enderio:block_simple_sag_mill>, [[<minecraft:diamond>, <minec
 recipes.addShaped(<enderio:item_basic_capacitor>, [[plastic_sheet, plastic_sheet, plastic_sheet], [<minecraft:redstone>, copper_ingot, <minecraft:redstone>], [<minecraft:gold_nugget>, null, <minecraft:gold_nugget>]]);
 recipes.addShaped(<enderio:item_basic_capacitor:1>, [[plastic_sheet, <enderio:item_alloy_ingot:1>, plastic_sheet], [<enderio:item_basic_capacitor>, coal_dust, <enderio:item_basic_capacitor>], [plastic_sheet, <enderio:item_alloy_ingot:1>, plastic_sheet]]);
 recipes.addShaped(<enderio:item_basic_capacitor:2>, [[plastic_sheet, <enderio:item_alloy_ingot:2>, plastic_sheet], [<enderio:item_basic_capacitor:1>, <minecraft:glowstone>, <enderio:item_basic_capacitor:1>], [plastic_sheet, <enderio:item_alloy_ingot:2>, plastic_sheet]]);
+// mods.enderio.SagMill.addRecipe(IItemStack[] output, float[] chances, IIngredient input, @Optional String bonusType, @Optional int energyCost, @Optional float[] xp);
+mods.enderio.SagMill.addRecipe([<nex:wither_dust> * 3], [100], <ore:boneWithered>, "NONE", 1200, [0]);
 
 # ExCompressum
 recipes.remove(<excompressum:auto_sieve>);
@@ -72,6 +77,12 @@ recipes.addShaped(<excompressum:auto_heavy_sieve> * 1, [[<thermalfoundation:stor
 //recipes.addShaped(<ExtraUtilities:generator:11> * 1, [[<minecraft:skull:1>, <minecraft:nether_star>, <minecraft:skull:1>], [<minecraft:skull:1>, <minecraft:iron_block>, <minecraft:skull:1>], [<minecraft:redstone>, <ExtraUtilities:generator:7>, <minecraft:redstone>]]);
 recipes.remove(<extrautils2:ingredients:8>); // mining/water upgrade
 recipes.addShaped(<extrautils2:ingredients:8>, [[null, <thermalfoundation:tool.pickaxe_invar>, null], [null, <extrautils2:ingredients:9>, null], [null, <thermaldynamics:duct_16:3>, null]]);
+
+// mods.extrautils2.Crusher.add(IItemStack output, IItemStack input, @Optional IItemStack secondaryOutput, @Optional float secondaryChance);
+mods.extrautils2.Crusher.add(<nex:wither_dust> * 3, <nex:wither_bone>);
+mods.extrautils2.Crusher.add(<nex:wither_dust> * 3, <tconstruct:materials:17>);
+
+
 
 //add custom recipe for Mech. User
 
@@ -135,6 +146,10 @@ recipes.addShaped(<openblocks:elevator> * 2, [[wool_block, <minecraft:piston>, w
 //recipes.addShaped(<ThermalExpansion:Device:2> * 1, [[null, <IronChest:BlockIronChest:5>, null], [<ThermalFoundation:material:135>, <ThermalExpansion:Frame:1>, <ThermalFoundation:material:135>], [<ThermalExpansion:material>, <ThermalExpansion:material:3>, <ThermalExpansion:material>]]);
 //recipes.removeShaped(<ThermalExpansion:Device:3>, [[null, <minecraft:diamond_pickaxe>, null], [<ThermalFoundation:material:129>, <minecraft:piston>, <ThermalFoundation:material:129>], [null, <ThermalExpansion:material>, null]]);
 //recipes.addShaped(<ThermalExpansion:Device:3> * 1, [[null, <ThermalFoundation:tool.pickaxeInvar>, null], [<ThermalFoundation:material:136>, <EnderIO:itemBasicCapacitor:1>, <ThermalFoundation:material:136>], [<ThermalExpansion:material:3>, <ThermalExpansion:material>, <ThermalExpansion:material:3>]]);
+
+mods.thermalexpansion.Pulverizer.addRecipe(<nex:wither_dust> * 3, <nex:wither_bone>, 3000);
+mods.thermalexpansion.Pulverizer.addRecipe(<nex:wither_dust> * 3, <tconstruct:materials:17>, 3000);
+
 
 # Thermal Foundation - Force Smeltery Creation
 recipes.removeShaped(<thermalfoundation:material:24>);

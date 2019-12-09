@@ -1,4 +1,9 @@
 /*
+  Imports
+*/
+import crafttweaker.item.IItemStack;
+
+/*
   Core Variables
 */
 var iron_ingot = <ore:ingotIron>;
@@ -186,3 +191,46 @@ recipes.remove(<harvestcraft:hardenedleatheritem>);
 # Applied Energistics 2
 recipes.remove(<appliedenergistics2:nether_quartz_sword>);
 recipes.remove(<appliedenergistics2:certus_quartz_sword>);
+
+# NetherEx
+recipes.remove(<nex:wither_bone>);
+recipes.remove(<nex:wither_dust>);
+
+# NexTools Array
+var nexToolsRawArray = [
+  <nex:golden_wither_bone_sword>,
+  <nex:golden_wither_bone_pickaxe>,
+  <nex:golden_wither_bone_shovel>,
+  <nex:golden_wither_bone_axe>,
+  <nex:golden_wither_bone_hoe>,
+  <nex:golden_wither_bone_hammer>
+] as IItemStack[];
+
+var nexToolsNewArray = [
+  <nex:golden_wither_bone_sword>,
+  <nex:golden_wither_bone_pickaxe>,
+  <nex:golden_wither_bone_shovel>,
+  <nex:golden_wither_bone_axe>,
+  <nex:golden_wither_bone_hoe>,
+  <nex:golden_wither_bone_hammer>
+] as IItemStack[];
+
+var goldenToolsArray = [
+  <minecraft:golden_sword>,
+  <minecraft:golden_pickaxe>,
+  <minecraft:golden_shovel>,
+  <minecraft:golden_axe>,
+  <minecraft:golden_hoe>,
+  <exnihilocreatio:hammer_gold>
+] as IItemStack[];
+
+for i, nexTool in nexToolsRawArray {
+  # Get the nex tool list for the recipes.
+  var nexToolsNew = nexToolsNewArray[i];
+  # Get the gold tool list for the recipes.
+  var goldTools = goldenToolsArray[i];
+  # Remove the recipe for the nex tools.
+  recipes.remove(nexTool);
+  # Add the recipe for nex tools with new components.
+  recipes.addShaped(nexToolsNew * 1, [[null, null, goldTools], [null, <tconstruct:binding>.withTag({Material: "bloodwood_plustic"}), null],[<ore:boneWithered>, null, null]]);
+}
