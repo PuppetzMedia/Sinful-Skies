@@ -23,8 +23,7 @@
     "ignoreBiome": false,
     "biomes": [
       "swamp",
-      "spooky",
-      "jungle"
+      "spooky"
     ],
     "spawnWeight": 8,
     "dungeonWeight": 200,

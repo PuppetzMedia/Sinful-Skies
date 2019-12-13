@@ -14,7 +14,7 @@
     {
       "featureType": "effect",
       "levelMin": 1,
-      "levelMax": 2,
+      "levelMax": 1,
       "effectType": "minecraft:poison",
       "effectTarget": "target",
       "effectDuration": 60,
@@ -23,7 +23,7 @@
     {
       "featureType": "effect",
       "levelMin": 2,
-      "levelMax": 3,
+      "levelMax": 2,
       "effectType": "minecraft:poison",
       "effectTarget": "target",
       "effectDuration": 80,

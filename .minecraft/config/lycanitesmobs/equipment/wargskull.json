@@ -31,7 +31,8 @@
     },
     {
       "featureType": "effect",
-      "levelMax": 2,
+      "levelMin": 1,
+      "levelMax": 1,
       "effectType": "lycanitesmobs:paralysis",
       "effectTarget": "target",
       "effectDuration": 10,
@@ -40,7 +41,7 @@
     {
       "featureType": "effect",
       "levelMin": 2,
-      "levelMax": 3,
+      "levelMax": 2,
       "effectType": "lycanitesmobs:paralysis",
       "effectTarget": "target",
       "effectDuration": 20,

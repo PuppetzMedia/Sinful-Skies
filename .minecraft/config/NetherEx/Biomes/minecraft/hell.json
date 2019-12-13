@@ -1,467 +1,245 @@
 {
-  "biome": "minecraft:hell",
-  "weight": 10,
-  "enabled": true,
-  "genDefaultFeatures": true,
-  "blocks": {
-    "topBlock": {
-      "block": "minecraft:netherrack"
-    },
-    "fillerBlock": {
-      "block": "minecraft:netherrack"
-    },
-    "wallBlock": {
-      "block": "minecraft:netherrack"
-    },
-    "ceilingBottomBlock": {
-      "block": "minecraft:netherrack"
-    },
-    "ceilingFillerBlock": {
-      "block": "minecraft:netherrack"
-    },
-    "oceanBlock": {
-      "block": "minecraft:lava"
-    }
-  },
-  "entities": [
-    {
-      "entity": "minecraft:magma_cube",
-      "creatureType": "monster",
-      "weight": 2,
-      "minGroupCount": 4,
-      "maxGroupCount": 4,
-      "spawn": true
-    },
-    {
-      "entity": "minecraft:enderman",
-      "creatureType": "monster",
-      "weight": 1,
-      "minGroupCount": 4,
-      "maxGroupCount": 4,
-      "spawn": true
-    },
-    {
-      "entity": "demonmobs:astaroth",
-      "creatureType": "monster",
-      "weight": 20,
-      "minGroupCount": 1,
-      "maxGroupCount": 2,
-      "spawn": true
-    },
-    {
-      "entity": "demonmobs:behemoth",
-      "creatureType": "monster",
-      "weight": 40,
-      "minGroupCount": 1,
-      "maxGroupCount": 3,
-      "spawn": true
-    },
-    {
-      "entity": "demonmobs:trite",
-      "creatureType": "monster",
-      "weight": 80,
-      "minGroupCount": 3,
-      "maxGroupCount": 6,
-      "spawn": true
-    },
-    {
-      "entity": "demonmobs:belph",
-      "creatureType": "monster",
-      "weight": 80,
-      "minGroupCount": 1,
-      "maxGroupCount": 3,
-      "spawn": true
-    },
-    {
-      "entity": "natura:heatscarspider",
-      "creatureType": "monster",
-      "weight": 10,
-      "minGroupCount": 4,
-      "maxGroupCount": 4,
-      "spawn": true
-    },
-    {
-      "entity": "natura:babyheatscarspider",
-      "creatureType": "monster",
-      "weight": 10,
-      "minGroupCount": 4,
-      "maxGroupCount": 4,
-      "spawn": true
-    },
-    {
-      "entity": "natura:nitrocreeper",
-      "creatureType": "monster",
-      "weight": 8,
-      "minGroupCount": 4,
-      "maxGroupCount": 6,
-      "spawn": true
-    },
-    {
-      "entity": "minecraft:zombie_pigman",
-      "creatureType": "monster",
-      "weight": 100,
-      "minGroupCount": 1,
-      "maxGroupCount": 4,
-      "spawn": true
-    },
-    {
-      "entity": "minecraft:ghast",
-      "creatureType": "monster",
-      "weight": 50,
-      "minGroupCount": 1,
-      "maxGroupCount": 2,
-      "spawn": true
-    },
-    {
-      "entity": "demonmobs:pinky",
-      "creatureType": "creature",
-      "weight": 60,
-      "minGroupCount": 1,
-      "maxGroupCount": 3,
-      "spawn": true
-    },
-    {
-      "entity": "natura:imp",
-      "creatureType": "creature",
-      "weight": 10,
-      "minGroupCount": 8,
-      "maxGroupCount": 12,
-      "spawn": true
-    },
-    {
-      "entity": "minecraft:zombie_pigman",
-      "creatureType": "monster",
-      "weight": 100,
-      "minGroupCount": 4,
-      "maxGroupCount": 4,
-      "spawn": true
-    },
-    {
-      "entity": "minecraft:magma_cube",
-      "creatureType": "monster",
-      "weight": 2,
-      "minGroupCount": 4,
-      "maxGroupCount": 4,
-      "spawn": true
-    },
-    {
-      "entity": "minecraft:enderman",
-      "creatureType": "monster",
-      "weight": 1,
-      "minGroupCount": 4,
-      "maxGroupCount": 4,
-      "spawn": true
-    },
-    {
-      "entity": "lycanitesmobs:astaroth",
-      "creatureType": "monster",
-      "weight": 20,
-      "minGroupCount": 1,
-      "maxGroupCount": 2,
-      "spawn": true
-    },
-    {
-      "entity": "lycanitesmobs:behemoth",
-      "creatureType": "monster",
-      "weight": 40,
-      "minGroupCount": 1,
-      "maxGroupCount": 3,
-      "spawn": true
-    },
-    {
-      "entity": "lycanitesmobs:trite",
-      "creatureType": "monster",
-      "weight": 80,
-      "minGroupCount": 3,
-      "maxGroupCount": 6,
-      "spawn": true
-    },
-    {
-      "entity": "lycanitesmobs:belph",
-      "creatureType": "monster",
-      "weight": 80,
-      "minGroupCount": 1,
-      "maxGroupCount": 3,
-      "spawn": true
-    },
-    {
-      "entity": "natura:heatscarspider",
-      "creatureType": "monster",
-      "weight": 10,
-      "minGroupCount": 4,
-      "maxGroupCount": 4,
-      "spawn": true
-    },
-    {
-      "entity": "natura:babyheatscarspider",
-      "creatureType": "monster",
-      "weight": 10,
-      "minGroupCount": 4,
-      "maxGroupCount": 4,
-      "spawn": true
-    },
-    {
-      "entity": "natura:nitrocreeper",
-      "creatureType": "monster",
-      "weight": 8,
-      "minGroupCount": 4,
-      "maxGroupCount": 6,
-      "spawn": true
-    },
-    {
-      "entity": "lycanitesmobs:pinky",
-      "creatureType": "creature",
-      "weight": 60,
-      "minGroupCount": 1,
-      "maxGroupCount": 3,
-      "spawn": true
-    },
-    {
-      "entity": "natura:imp",
-      "creatureType": "creature",
-      "weight": 10,
-      "minGroupCount": 8,
-      "maxGroupCount": 12,
-      "spawn": true
-    },
-    {
-      "entity": "lycanitesmobs:astaroth",
-      "creatureType": "monster",
-      "weight": 20,
-      "minGroupCount": 1,
-      "maxGroupCount": 2,
-      "spawn": true
-    },
-    {
-      "entity": "lycanitesmobs:behemoth",
-      "creatureType": "monster",
-      "weight": 40,
-      "minGroupCount": 1,
-      "maxGroupCount": 3,
-      "spawn": true
-    },
-    {
-      "entity": "lycanitesmobs:trite",
-      "creatureType": "monster",
-      "weight": 80,
-      "minGroupCount": 3,
-      "maxGroupCount": 6,
-      "spawn": true
-    },
-    {
-      "entity": "lycanitesmobs:belph",
-      "creatureType": "monster",
-      "weight": 80,
-      "minGroupCount": 1,
-      "maxGroupCount": 3,
-      "spawn": true
-    },
-    {
-      "entity": "natura:imp",
-      "creatureType": "creature",
-      "weight": 10,
-      "minGroupCount": 8,
-      "maxGroupCount": 12,
-      "spawn": true
-    },
-    {
-      "entity": "lycanitesmobs:pinky",
-      "creatureType": "creature",
-      "weight": 60,
-      "minGroupCount": 1,
-      "maxGroupCount": 3,
-      "spawn": true
-    }
-  ],
-  "features": [
-    {
-      "feature": "lex:fluid",
-      "genStage": "populate",
-      "blockToSpawn": {
-        "block": "minecraft:flowing_lava"
-      },
-      "blockToTarget": {
-        "block": "minecraft:netherrack"
-      },
-      "hidden": false,
-      "genAttempts": 8,
-      "genProbability": 1.0,
-      "minGenHeight": 4,
-      "maxGenHeight": 124,
-      "randomizeGenAttempts": false,
-      "generate": true
-    },
-    {
-      "feature": "lex:scatter",
-      "genStage": "populate",
-      "blockToSpawn": {
-        "block": "minecraft:fire"
-      },
-      "blockToTarget": {
-        "block": "minecraft:netherrack"
-      },
-      "placement": "on_ground",
-      "genAttempts": 10,
-      "genProbability": 1.0,
-      "minGenHeight": 4,
-      "maxGenHeight": 124,
-      "randomizeGenAttempts": true,
-      "generate": true
-    },
-    {
-      "feature": "lex:cluster",
-      "genStage": "populate",
-      "blockToSpawn": {
-        "block": "minecraft:glowstone"
-      },
-      "blockToAttachTo": {
-        "block": "minecraft:netherrack"
-      },
-      "direction": "down",
-      "genAttempts": 10,
-      "genProbability": 1.0,
-      "minGenHeight": 4,
-      "maxGenHeight": 124,
-      "randomizeGenAttempts": true,
-      "generate": true
-    },
-    {
-      "feature": "lex:cluster",
-      "genStage": "populate",
-      "blockToSpawn": {
-        "block": "minecraft:glowstone"
-      },
-      "blockToAttachTo": {
-        "block": "minecraft:netherrack"
-      },
-      "direction": "down",
-      "genAttempts": 10,
-      "genProbability": 1.0,
-      "minGenHeight": 1,
-      "maxGenHeight": 128,
-      "randomizeGenAttempts": false,
-      "generate": true
-    },
-    {
-      "feature": "lex:scatter",
-      "genStage": "decorate",
-      "blockToSpawn": {
-        "block": "minecraft:red_mushroom"
-      },
-      "blockToTarget": {
-        "block": "minecraft:netherrack"
-      },
-      "placement": "on_ground",
-      "genAttempts": 1,
-      "genProbability": 0.25,
-      "minGenHeight": 1,
-      "maxGenHeight": 128,
-      "randomizeGenAttempts": false,
-      "generate": true
-    },
-    {
-      "feature": "lex:scatter",
-      "genStage": "decorate",
-      "blockToSpawn": {
-        "block": "minecraft:brown_mushroom"
-      },
-      "blockToTarget": {
-        "block": "minecraft:netherrack"
-      },
-      "placement": "on_ground",
-      "genAttempts": 1,
-      "genProbability": 0.25,
-      "minGenHeight": 1,
-      "maxGenHeight": 128,
-      "randomizeGenAttempts": false,
-      "generate": true
-    },
-    {
-      "feature": "lex:ore",
-      "genStage": "ore",
-      "blockToSpawn": {
-        "block": "minecraft:quartz_ore"
-      },
-      "blockToReplace": {
-        "block": "minecraft:netherrack"
-      },
-      "veinSize": 14,
-      "genAttempts": 16,
-      "genProbability": 1.0,
-      "minGenHeight": 10,
-      "maxGenHeight": 108,
-      "randomizeGenAttempts": false,
-      "generate": true
-    },
-    {
-      "feature": "lex:ore",
-      "genStage": "ore",
-      "blockToSpawn": {
-        "block": "nex:amethyst_ore"
-      },
-      "blockToReplace": {
-        "block": "minecraft:netherrack"
-      },
-      "veinSize": 3,
-      "genAttempts": 16,
-      "genProbability": 1.0,
-      "minGenHeight": 10,
-      "maxGenHeight": 108,
-      "randomizeGenAttempts": false,
-      "generate": true
-    },
-    {
-      "feature": "lex:ore",
-      "genStage": "populate",
-      "blockToSpawn": {
-        "block": "minecraft:magma"
-      },
-      "blockToReplace": {
-        "block": "minecraft:netherrack"
-      },
-      "veinSize": 32,
-      "genAttempts": 4,
-      "genProbability": 1.0,
-      "minGenHeight": 28,
-      "maxGenHeight": 38,
-      "randomizeGenAttempts": false,
-      "generate": true
-    },
-    {
-      "feature": "lex:fluid",
-      "genStage": "populate",
-      "blockToSpawn": {
-        "block": "minecraft:flowing_lava"
-      },
-      "blockToTarget": {
-        "block": "minecraft:netherrack"
-      },
-      "hidden": true,
-      "genAttempts": 16,
-      "genProbability": 1.0,
-      "minGenHeight": 10,
-      "maxGenHeight": 118,
-      "randomizeGenAttempts": false,
-      "generate": true
-    },
-    {
-      "feature": "lex:structure",
-      "genStage": "populate",
-      "structure": "nex:village/tiny_hell_pigtificate_village",
-      "type": "grounded",
-      "genAttempts": 1,
-      "genProbability": 1.0,
-      "randomizeGenAttempts": false,
-      "minGenHeight": 32,
-      "maxGenHeight": 116,
-      "mirror": "random",
-      "rotation": "random",
-      "ignoredBlock": {
-        "block": "minecraft:structure_void",
-        "properties": {}
-      },
-      "clearancePercentage": 0.75,
-      "generate": true
-    }
-  ]
+	"biome": "minecraft:hell",
+	"generationWeight": 10,
+	"useDefaultDecorations": true,
+	"isSubBiome": false,
+	"isEnabled": true,
+	"blocks": {
+		"caveFloorBlock": {
+			"block": "minecraft:netherrack"
+		},
+		"fluidBlock": {
+			"block": "minecraft:lava"
+		},
+		"caveWallBlock": {
+			"block": "minecraft:netherrack"
+		},
+		"surfaceBlock": {
+			"block": "minecraft:netherrack"
+		},
+		"subsurfaceBlock": {
+			"block": "minecraft:netherrack"
+		},
+		"caveCeilingBlock": {
+			"block": "minecraft:netherrack"
+		}
+	},
+	"entities": [
+		{
+			"spawnWeight": 50,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4,
+			"entity": "minecraft:ghast"
+		}, 
+		{
+			"spawnWeight": 100,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4,
+			"entity": "minecraft:zombie_pigman"
+		}, 
+		{
+			"spawnWeight": 2,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4,
+			"entity": "minecraft:magma_cube"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4,
+			"entity": "minecraft:enderman"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 8,
+			"maximumGroupCount": 12,
+			"entity": "natura:imp"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "enderiozoo:epicsquid"
+		}
+	],
+	"traits": [
+		{
+			"generationAttempts": 8,
+			"generationStage": "decoration",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 4,
+			"blockToTarget": {
+				"block": "minecraft:netherrack"
+			},
+			"blockToSpawn": {
+				"block": "minecraft:flowing_lava"
+			},
+			"randomizeGenerationAttempts": false,
+			"trait": "libraryex:fluid",
+			"maximumGenerationHeight": 124,
+			"generateFalling": false
+		}, 
+		{
+			"generationAttempts": 10,
+			"generationStage": "decoration",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 4,
+			"blockToSpawn": {
+				"block": "minecraft:fire"
+			},
+			"blockToTarget": {
+				"block": "minecraft:netherrack"
+			},
+			"randomizeGenerationAttempts": true,
+			"trait": "libraryex:scatter",
+			"maximumGenerationHeight": 124,
+			"placement": "on_ground"
+		}, 
+		{
+			"generationAttempts": 10,
+			"generationStage": "decoration",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 4,
+			"blockToSpawn": {
+				"block": "minecraft:glowstone"
+			},
+			"randomizeGenerationAttempts": true,
+			"trait": "libraryex:cluster",
+			"maximumGenerationHeight": 124,
+			"blockToAttachTo": {
+				"block": "minecraft:netherrack"
+			},
+			"direction": "down"
+		}, 
+		{
+			"generationAttempts": 10,
+			"generationStage": "decoration",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 1,
+			"blockToSpawn": {
+				"block": "minecraft:glowstone"
+			},
+			"randomizeGenerationAttempts": false,
+			"trait": "libraryex:cluster",
+			"maximumGenerationHeight": 128,
+			"blockToAttachTo": {
+				"block": "minecraft:netherrack"
+			},
+			"direction": "down"
+		}, 
+		{
+			"generationAttempts": 16,
+			"generationStage": "decoration",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 10,
+			"blockToTarget": {
+				"block": "minecraft:netherrack"
+			},
+			"blockToSpawn": {
+				"block": "minecraft:flowing_lava"
+			},
+			"randomizeGenerationAttempts": false,
+			"trait": "libraryex:fluid",
+			"maximumGenerationHeight": 118,
+			"generateFalling": true
+		}, 
+		{
+			"generationAttempts": 1,
+			"generationStage": "plant_decoration",
+			"generationProbability": 0.25,
+			"minimumGenerationHeight": 1,
+			"blockToSpawn": {
+				"block": "minecraft:brown_mushroom"
+			},
+			"blockToTarget": {
+				"block": "minecraft:netherrack"
+			},
+			"randomizeGenerationAttempts": false,
+			"trait": "libraryex:scatter",
+			"maximumGenerationHeight": 128,
+			"placement": "on_ground"
+		}, 
+		{
+			"generationAttempts": 1,
+			"generationStage": "plant_decoration",
+			"generationProbability": 0.25,
+			"minimumGenerationHeight": 1,
+			"blockToSpawn": {
+				"block": "minecraft:red_mushroom"
+			},
+			"blockToTarget": {
+				"block": "minecraft:netherrack"
+			},
+			"randomizeGenerationAttempts": false,
+			"trait": "libraryex:scatter",
+			"maximumGenerationHeight": 128,
+			"placement": "on_ground"
+		}, 
+		{
+			"generationAttempts": 16,
+			"generationStage": "ore",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 10,
+			"veinSize": 14,
+			"blockToSpawn": {
+				"block": "minecraft:quartz_ore"
+			},
+			"randomizeGenerationAttempts": false,
+			"blockToReplace": {
+				"block": "minecraft:netherrack"
+			},
+			"trait": "libraryex:ore",
+			"maximumGenerationHeight": 108
+		}, 
+		{
+			"generationAttempts": 4,
+			"generationStage": "ore",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 28,
+			"veinSize": 32,
+			"blockToSpawn": {
+				"block": "minecraft:magma"
+			},
+			"randomizeGenerationAttempts": false,
+			"blockToReplace": {
+				"block": "minecraft:netherrack"
+			},
+			"trait": "libraryex:ore",
+			"maximumGenerationHeight": 38
+		}, 
+		{
+			"generationAttempts": 8,
+			"generationStage": "ore",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 10,
+			"veinSize": 7,
+			"blockToSpawn": {
+				"block": "netherex:amethyst_ore"
+			},
+			"randomizeGenerationAttempts": false,
+			"blockToReplace": {
+				"block": "minecraft:netherrack"
+			},
+			"trait": "libraryex:ore",
+			"maximumGenerationHeight": 108
+		}, 
+		{
+			"generationAttempts": 1,
+			"generationStage": "structure",
+			"generationProbability": 0.25,
+			"structureType": "ground",
+			"minimumGenerationHeight": 32,
+			"clearancePercentage": 0.75,
+			"randomizeGenerationAttempts": false,
+			"structures": [
+				"netherex:pigtificate_village/tiny_pigtificate_village"
+			],
+			"trait": "libraryex:structure",
+			"maximumGenerationHeight": 118,
+			"ignoredBlock": {
+				"block": "minecraft:structure_void"
+			}
+		}
+	],
+	"subBiomes": []
 }

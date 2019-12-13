@@ -13,8 +13,7 @@
     },
     {
       "featureType": "effect",
-      "levelMin": 1,
-      "levelMax": 2,
+      "levelMax": 1,
       "effectType": "lycanitesmobs:instability",
       "effectTarget": "target",
       "effectDuration": 40,
@@ -23,7 +22,7 @@
     {
       "featureType": "effect",
       "levelMin": 2,
-      "levelMax": 3,
+      "levelMax": 2,
       "effectType": "lycanitesmobs:instability",
       "effectTarget": "target",
       "effectDuration": 60,

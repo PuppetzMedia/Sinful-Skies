@@ -3,7 +3,8 @@
   "loadDefault": true,
   "hunt": [
     "monster",
-    "raider"
+    "raider",
+    "opportunist"
   ],
   "pack": [],
   "wary": [],

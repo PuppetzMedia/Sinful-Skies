@@ -33,7 +33,7 @@
       "damageKnockback": 0,
       "damageCooldown": 1,
       "damageRange": 1,
-      "damageSweep": 45
+      "damageSweep": 90
     }
   ]
 }

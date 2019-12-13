@@ -17,8 +17,7 @@
     },
     {
       "featureType": "effect",
-      "levelMin": 1,
-      "levelMax": 2,
+      "levelMax": 1,
       "effectType": "minecraft:slowness",
       "effectTarget": "target",
       "effectDuration": 60,
@@ -27,7 +26,7 @@
     {
       "featureType": "effect",
       "levelMin": 2,
-      "levelMax": 3,
+      "levelMax": 2,
       "effectType": "minecraft:slowness",
       "effectTarget": "target",
       "effectDuration": 80,
@@ -40,6 +39,25 @@
       "effectTarget": "target",
       "effectDuration": 100,
       "effectStrength": 3
+    },
+    {
+      "featureType": "damage",
+      "levelMin": 2,
+      "levelMax": 2,
+      "damageAmount": 1,
+      "damageKnockback": 0,
+      "damageCooldown": 1,
+      "damageRange": 1,
+      "damageSweep": 45
+    },
+    {
+      "featureType": "damage",
+      "levelMin": 3,
+      "damageAmount": 2,
+      "damageKnockback": 0,
+      "damageCooldown": 1,
+      "damageRange": 1,
+      "damageSweep": 90
     }
   ]
 }

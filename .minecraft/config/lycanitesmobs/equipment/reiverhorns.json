@@ -10,7 +10,7 @@
     {
       "featureType": "damage",
       "levelMax": 2,
-      "damageAmount": 5,
+      "damageAmount": 8,
       "damageKnockback": 2,
       "damageCooldown": 1,
       "damageRange": 2,
@@ -19,7 +19,7 @@
     {
       "featureType": "damage",
       "levelMin": 3,
-      "damageAmount": 6,
+      "damageAmount": 10,
       "damageKnockback": 3,
       "damageCooldown": 0.75,
       "damageRange": 3,

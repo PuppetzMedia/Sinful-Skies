@@ -26,7 +26,7 @@
       "savanna",
       "-snowy"
     ],
-    "spawnWeight": 8,
+    "spawnWeight": 6,
     "dungeonWeight": 200,
     "spawnAreaLimit": 5,
     "spawnGroupMin": 1,
@@ -81,6 +81,7 @@
   "summonable": true,
   "tameable": false,
   "mountable": false,
+  "perchable": true,
   "summonCost": 2,
   "dungeonLevel": 0,
   "drops": [

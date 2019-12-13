@@ -43,8 +43,7 @@
     },
     {
       "featureType": "effect",
-      "levelMin": 2,
-      "levelMax": 3,
+      "levelMin": 3,
       "effectType": "minecraft:weakness",
       "effectTarget": "target",
       "effectDuration": 60,
